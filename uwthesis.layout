@@ -1,0 +1,36 @@
+# \DeclareLaTeXClass{uwthesis}
+
+Format 2
+Input stdclass.inc
+
+
+Sides           2
+PageStyle       Headings
+
+NoStyle Part
+
+
+Style Chapter
+        Font
+          Size                Large
+        EndFont
+	LabelType             Counter
+        LabelCounter          chapter
+        LabelString           "Chapter \arabic{chapter}"
+        LabelStringAppendix   "Appendix \Alph{chapter}"
+        TocLevel              0
+End
+
+Style Section
+        Font
+          Series              Normal
+          Size                Normal
+        EndFont
+End
+
+Style Subsection
+        Font
+          Series              Normal
+          Size                Normal
+        EndFont
+End

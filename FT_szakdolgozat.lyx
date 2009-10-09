@@ -1,0 +1,352 @@
+#LyX 1.6.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass uwthesis
+\begin_preamble
+\def\magyarOptions{hyphenation=huhyphn}
+\usepackage[magyar]{babel}
+\usepackage{inlinebib}
+\end_preamble
+\use_default_options true
+\language magyar
+\inputencoding latin2
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry false
+\use_amsmath 0
+\use_esint 0
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language polish
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+%% Titlepage
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+prelimpages
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+Title{Globalizáció és dekonstrukció a nemzeti identitásban}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+Author{Földi Tamás} 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+Year{2009} 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+Degree{}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+Degreetext{}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+School{Zsigmond Király Főiskola}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+Programtext{}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+Program{Nemzetközi Tanulmányok} 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+titlepage
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+textpages
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+setcounter{page}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Bevezetés
+\end_layout
+
+\begin_layout Standard
+A harmadik évezred globalizációtól terhes világában a nemzetállamok szerepe
+ jelentősen csökken.
+ Az információáramlás ma már nem korlátozható mesterséges határok közé:
+ az Internetet, az írott és elektronikus média tartalmát már nem a különböző
+ országok elitjei, hanem a nemzetektől független multinacionális cégek vagy
+ közösségek alakítják.
+ Ebben a változásokkal átitatott időszakban érdemes továbbgondolnunk a nemzeti
+ identitás szerepét és jövőjét.
+ 
+\end_layout
+
+\begin_layout Standard
+Dolgozatomban a nemzetteremtő mozgalmak eszközeit próbálom elhelyezni a
+ konstruktivista tézisek fő kontextusaiban, párhuzamba állítva azon tényezőkkel,
+ melyek egyértelműen a nemzetsematikus gondolkodás lebontására törekednek.
+ A közoktatás, nyelv, gazdasági élet, szubkultúrák és fegyveres konfliktusok
+ elemzését hívom segítségül annak a kérdésnek az eldöntésére, hogy érdekében
+ áll-e a hatalom tényleges birtokosainak a nacionalizmus fenntartása.
+ Tézisem szerint az egyén legfőbb kollektív identitásának - a nemzeti hovatartoz
+ásnak - kialakítása alapvetően csak a nemzetállamok érdeke, amely érdek
+ a globalizációs folyamatok erősödésével már nem érvényesíthető.
+\end_layout
+
+\begin_layout Standard
+Munkám első felében a globalizált társadalom egyes aktorainak céljait kívánom
+ megfejteni szociológiai elemzések, konkrét példák és fiktív esettanulmányok
+ tükrében.
+ Vizsgálódásaim helyszínének három - a nacionalizmus konstruktivista és
+ dekonstruktivista lépcsőinek különböző fokain álló - országot választottam,
+ melyekhez a feldolgozott forrásokon túl személyes tapasztalatok is kötnek.
+ A nacionalizmus és állami cenzúra fellegvárának számító Kína, az átmeneti
+ fázisban rekedt Magyarország, illetve a globalizáció úttörőjének számító
+ Szingapúr kiváló lehetőséget biztosít az oktatás és fogyasztói magatartás
+ elemzésére, a hatalmi törekvések megértésére.
+ Az ellenpólus vizsgálatakor főleg a fortune 500 vállalataira, valamint
+ a hozzájuk kapcsolható céges, fogyasztói és szubkultúrák működésére, ezek
+ nemzeti identitásra, érzelmekre kifejtett hatására koncentrálok.
+ 
+\end_layout
+
+\begin_layout Standard
+A második részben a folyamatok középtávú hatásait, egy lehetséges jővőképet
+ próbálok felvázolni a jelenlegi trendek egyfajta folytatásaként.
+ Számos felmerülő kérdés megválaszolására teszek kísérletet: 
+\begin_inset Quotes eld
+\end_inset
+
+Elpusztítható-e vajon a nacionalizmus?
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+A nemzeti identitás mesterséges leépítésről vagy elgyengüléséről van szó?
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Kell-e küzdenünk a nemzeti kultúráért?
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Bár egyértelmű válasszal nem szolgálhatok, mégis remélem munkámmal az olvasó
+ közelebb kerül saját és az őt követő generációk énképének megértéséhez.
+\end_layout
+
+\begin_layout Chapter
+A konstruktivizmus időszaka
+\end_layout
+
+\begin_layout Section
+Nemzetépítő mozgalmak
+\end_layout
+
+\begin_layout Section
+Nemzetépítés napjainkban
+\end_layout
+
+\begin_layout Chapter
+A nemzetépítés eszközei
+\end_layout
+
+\begin_layout Section
+Közktatás
+\end_layout
+
+\begin_layout Section
+Nyelv
+\end_layout
+
+\begin_layout Section
+Szimbólum- és mítoszrendszer
+\end_layout
+
+\begin_layout Section
+Média
+\end_layout
+
+\begin_layout Chapter
+Az új kulturális forradalom
+\end_layout
+
+\begin_layout Section
+Neoliberalizmus - a hatalom redisztribúciója
+\end_layout
+
+\begin_layout Section
+Nemzetek feletti vállalatok
+\end_layout
+
+\begin_layout Section
+Internet
+\end_layout
+
+\begin_layout Section
+Vállalati kultúra 
+\end_layout
+
+\begin_layout Section
+Fogyasztói szubkultúrák 
+\end_layout
+
+\begin_layout Section
+Globális uniformizálás 
+\end_layout
+
+\begin_layout Chapter
+Az identitás jövője 
+\end_layout
+
+\begin_layout Section
+Nacionalizmus ma és holnap 
+\end_layout
+
+\begin_layout Section
+A nemzetkultúrák bukása
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "FT_szakdolgozat"
+options "inlinebib"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Absztraktok
+\end_layout
+
+\begin_layout Section
+Magyar nyelvű absztrakt
+\end_layout
+
+\begin_layout Section
+Angol nyelvű absztrakt
+\end_layout
+
+\end_body
+\end_document

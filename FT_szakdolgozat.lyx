@@ -194,13 +194,13 @@ Dolgozatomban a nemzetteremtő mozgalmak eszközeit próbálom elhelyezni a
 Munkám első felében a globalizált társadalom egyes aktorainak céljait kívánom
  megfejteni szociológiai elemzések, konkrét példák és fiktív esettanulmányok
  tükrében.
- Vizsgálódásaim helyszínének három - a nacionalizmus konstruktivista és
- dekonstruktivista lépcsőinek különböző fokain álló - országot választottam,
- melyekhez a feldolgozott forrásokon túl személyes tapasztalatok is kötnek.
- A nacionalizmus és állami cenzúra fellegvárának számító Kína, az átmeneti
- fázisban rekedt Magyarország, illetve a globalizáció úttörőjének számító
- Szingapúr kiváló lehetőséget biztosít az oktatás és fogyasztói magatartás
- elemzésére, a hatalmi törekvések megértésére.
+ Vizsgálódásaim helyszínének három - a kollektív identitásépítés konstruktivista
+ és dekonstruktivista lépcsőinek különböző fokain álló - közösséget választottam
+, melyekhez a feldolgozott forrásokon túl személyes tapasztalatok is kötnek.
+ A jelen korban is közösségépítő tevékenységet folytató Európai Únió, az
+ átmeneti fázisban rekedt Magyarország, illetve a globalizáció úttörőjének
+ számító Szingapúr kiváló lehetőséget biztosít az oktatás és fogyasztói
+ magatartás elemzésére, a hatalmi törekvések megértésére.
  Az ellenpólus vizsgálatakor főleg a fortune 500 vállalataira, valamint
  a hozzájuk kapcsolható céges, fogyasztói és szubkultúrák működésére, ezek
  nemzeti identitásra, érzelmekre kifejtett hatására koncentrálok.
@@ -241,6 +241,187 @@ Kell-e küzdenünk a nemzeti kultúráért?
 
 \begin_layout Chapter
 A konstruktivizmus időszaka
+\end_layout
+
+\begin_layout Section
+Alapfogalmak
+\end_layout
+
+\begin_layout Standard
+Miért van az, hogy egy országhatáron állva az országunkhoz közelebb eső
+ helyekkel, falvakkal és emberekkel szemben erősebb kötődést, szolidaritást
+ érzünk, mint az 
+\begin_inset Quotes pld
+\end_inset
+
+idegen
+\begin_inset Quotes prd
+\end_inset
+
+ ország irányában, mégha a távolság a vizsgált entitásoktól megegyezik?
+ Miért drukkolunk hazánk sportolóinak, holott nem is ismerjük őket személyesen?
+ Miért érezzük magunkénak nemzetünk természeti kincseit, és miért érezzük
+ másokénak a határ mögötti, mesterséges demarkációs vonallal elválasztottakat?
+ Miért áldozzák fel életüket milliók nemzetükért? Bármilyen válasz is érkezik,
+ ha öszintén belegondolunk, a hazaszeret és nacionalizmus alapvetően érzelmi
+ projekció, amely ellehetetleníti a logikus gondolkozás és érvelés útján
+ történő megértését.
+ De pontosan mi is a nacionalizmus, honnan fakad, mióta él bennünk és meddig
+ kell vele együttélnünk? 
+\end_layout
+
+\begin_layout Standard
+Már a nemzet, mint fogalom jelentésének magyarázata sem egyszerű: minden
+ identitást vizsgáló társadalomtudományi iskola más-más aspektusból, más-más
+ logikai és érzelmi projekciók mentén próbálja definiálni a nemzetet, mint
+ közösségi entitást.
+ A XIX.
+ század klasszikus francia filozófusa, Ernest Renan a következő képpen értelmezi
+ a nemzet fogalmát: "A nemzet lélek, szellemi alapelv.
+ Ezt a lelket, ezt a szellemi princípiumot két dolog alkotja, mely azonban
+ voltaképpen egy.
+ Az első a múltban gyökerezzik, a másik a jelenben.
+ Az egyik: emlékek gazdag örökségének közös birtoklása, a másik: a jelenlegi
+ megegyezés, vágy arra, hogy közösen éljünk, annak szándéka, hogy a továbbiakban
+ is kamatoztassuk az osztatlanul kapott örökséget
+\begin_inset Quotes prd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+after "19 p."
+key "mi_a_nemzet"
+
+\end_inset
+
+.
+ Érdemes továbbá megjegyezni, hogy Renan is felismerte, hogy a nemzetek
+ születése adott korszakhoz kötött (lévén az ókori birodalmakra nem volt
+ jellemző ez a fajta nemzetiségtudat), és időben korlátos: 
+\begin_inset Quotes pld
+\end_inset
+
+A nemzetek nem örökkévalóak: volt kezdetük és végük is lesz.
+ Vélhetően az európai konföderáció lép majd a helyükbe, csakhogy ez a törvény
+ nem annak a századnak a térvénye, amelyben élünk.
+\begin_inset Quotes prd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+after "19 p."
+key "mi_a_nemzet"
+
+\end_inset
+
+.
+ Renannak látta előre az integrációs törekvések eurólokális térnyerésének
+ folyamatát, mégha ez a folyamat napjainkban megtorpanni is látszik.
+ Edmunk Burke is hasonlóképpen vélekedik a nemzetről (definíciónak még ezt
+ sem nevezném): 
+\begin_inset Quotes pld
+\end_inset
+
+a nemzet az élők, holtak és a még meg nem szültetettek szövetsége, azaz
+ a nemzet nem egyszerűen racionális kalkulációk révén összetartott közösség
+\begin_inset Quotes prd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "toprengesek"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Szakdolgozatomban azonban szükséges egy ennél egzaktabb fogalom használata,
+ így Benedict Anderson nemzetdefinícióját hívom segítségül: 
+\begin_inset Quotes pld
+\end_inset
+
+Elképzelt politikai közösség, melynek határait és szuverenitását egyarán
+ veleszületettnek képzelik el.
+\begin_inset Quotes prd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+after "20 p."
+key "elkepzelt_kozossegek"
+
+\end_inset
+
+ Anderson megfogalmazásában minden szó hangsúlyos: 
+\emph on
+elképzelt
+\emph default
+, hiszen még a legkisebb nemzetek tagjai sem ismerik, ismerhetik egymást
+ személyesen, sőt, mégcsak egymás létezéséről sem tudnak.
+ Mégis és bennük van az egymás iránti szolidaritás, az egy közösséghez való
+ tartozás hamis képe.
+ 
+\emph on
+Behatárolt
+\emph default
+, mivel mind területileg, mind a közösség létszámában limitáltak a törekvések.
+ Egyetlen nemzet sem akar homogén, totális világnemzet lenni, a nacionalizmus
+ 
+\emph on
+
+\begin_inset Quotes pld
+\end_inset
+
+Mi
+\emph default
+
+\begin_inset Quotes prd
+\end_inset
+
+-je értelmét vesztené a 
+\emph on
+
+\begin_inset Quotes pld
+\end_inset
+
+Ti
+\begin_inset Quotes prd
+\end_inset
+
+
+\emph default
+ nélkül.
+ 
+\emph on
+Szuverén
+\emph default
+, mivel a nemzetépítés a francia forradalom kirobbanásának árnyékában, az
+ 
+\emph on
+ancient regime
+\emph default
+-k bukása utána a politikai és vallási pluralizmus korszakában kezdődött.
+ Az isteni elrendeltetés elvének, a hierarchikus és dinasztikus birodalmaknak
+ a legitimitása megroppant, a nemzetek számára egyedül a szuverén állam
+ jelenthette a járható utat.
+ Végezetül közösség, mivel a nemzeten belüli vertikális ellentétektől függetlenü
+l a nemzetet tagjai horizontális bajtársiasságként, testvériességként fogják
+ fel.
+\begin_inset CommandInset citation
+LatexCommand cite
+after "22 p."
+key "elkepzelt_kozossegek"
+
+\end_inset
+
+ 
 \end_layout
 
 \begin_layout Section
@@ -285,6 +466,133 @@ Nemzetek feletti vállalatok
 
 \begin_layout Section
 Internet
+\end_layout
+
+\begin_layout Standard
+Az ARPANET (az Internet előző neve) tervezésekor és kiépítésekor két fő
+ szempont lebegett az amerikai kormányzat előtt: csapatmunka és decentralizálás
+\begin_inset CommandInset citation
+LatexCommand cite
+key "arpanet"
+
+\end_inset
+
+.
+ 
+\emph on
+Csapatmunka
+\emph default
+, hogy az egyetemek által használt erőforrások megosztása révén az intézményi
+ hatékonyság növelhető legyen az információ redisztribúciójával újabb költséges
+ számítógépek beszerzése nélkül.
+ 
+\emph on
+Decentralizált
+\emph default
+, hogy a hidegháborús környezetben egy esetleges atomtámadás ne tudja a
+ rendszert megbénítani, ne legyen központi gépek, amelyek elpusztításával
+ a hálózat is elpusztítható.
+ 
+\end_layout
+
+\begin_layout Standard
+Az ARPANET megjelenése óta eltelt negyven évben a fenti szempontok mitsem
+ koptak, a továbbra is IP protokollra épülő hálózat gyakorlatilag elpusztíthatat
+lan, és ami ennél is fontosabb, decentralizált architektúrájából fakadóan
+ nincsen olyan entitás, ami a cenzúrázására képes lenne
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Valójában több országban is próbálkoznak az Internet cenzúrázásával, több
+ kevesebb sikerrel.
+ Bár még a fejlett Ausztrália is cenzúrázza az országa felé érkező információkat
+, ezen korlátozások könnyen kikerülhetőek a kifejezetten cenzúrát blokkoló
+ weboldalak és szoftverek használatával.
+\end_layout
+
+\end_inset
+
+.
+ Az Internet az egyetlen olyan médium, amelynek segítségével tényleges informati
+kai vagy sajtóismeret nélkül tudunk emberek millióit elérni határok, kultúra,
+ vallás és más kollektív identitásképző entitásoktól függetlenül, azokat
+ átlépve.
+ Az Internet első igazi politikai és társadalmi értelemben vett áttörése
+ az 1991-es Öböl Háború alatt történt, amikor is az Irakban állomásozó katonák,
+ otthon maradt amerikaiak, közel-keletiek, európaiak IRC
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Internet Relay Chat - az első kifejezetten chat-re tervezett protokol
+\end_layout
+
+\end_inset
+
+ csatornákon osztották meg a háború történéseit valós időben.
+ A globális médiumokat kikerülve a felhasználók közvetlen kapcsolatba léptek
+ egymással, függetlenül nemzetüktől, identitásuktól.
+ A témák között az aktuális történéseken túl feltüntek a lokális médiumok
+ interpretációi és az amerikai katonák által leírt valóságos helyzetek közötti
+ eltérések elemzései, valamint az amerikai sajtó patrióta és szenzációhajhász
+ híreinek kritikái.
+ Itt ugyan még nem figyelhető meg a nemzeti identitás sérülése, de mindenképpen
+ érdemes észrevenni az amerikai médiából áramló nemzeti büszkéseg alulról
+ szerveződő, hiteles forrásokból táplálkozó, állami struktúráktól független
+ kritikáját.
+\end_layout
+
+\begin_layout Standard
+A következő, infokommunikációs értelemben vett áttörés, vagy ha jobban tetszik
+ Internet-történeti korszak a 2002-es Web2.0-ás hype
+\begin_inset CommandInset citation
+LatexCommand cite
+key "web20"
+
+\end_inset
+
+.
+ Tim O'Reilly, az Internet egyik legnagyobb médiavállalatának tulajdonosa
+ a következő, számunkra is releváns megállapításokat teszi az Web2.0-vál
+ kapcsolatban
+\begin_inset CommandInset citation
+LatexCommand cite
+key "whatisweb20"
+
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Itemize
+Az adat mint hajtóerő - A felhasználó birtokolja az információt, saját maga
+ szerkesztheti azt, és közzé is teheti.
+ (Blogok, mikroblogok és fórumok.)
+\end_layout
+
+\begin_layout Itemize
+Részvételen alapuló tervezés - Az eseményeket a felhasználó irányítja, az
+ ő aktív közreműködésével jönnek létre az oldalak tartalmai.
+ (Közösségi oldalak (social network oldalak), tematikus közösségi blogok)
+\end_layout
+
+\begin_layout Itemize
+Laza szervezeti struktúra - Önszervező, autokrata csoportok által vezérelt
+ szolgáltatások 
+\end_layout
+
+\begin_layout Standard
+Jelenleg több mint 133 millió blog van az interneten, és az aktív internetezők
+ 77% -a olvas kisebb nagyobb rendszerességgel blogokat
+\begin_inset CommandInset citation
+LatexCommand cite
+key "technorati"
+
+\end_inset
+
+.
+ 
 \end_layout
 
 \begin_layout Section

@@ -195,8 +195,8 @@ Munkám első felében a globalizált társadalom egyes aktorainak céljait kív
  megfejteni szociológiai elemzések, konkrét példák és fiktív esettanulmányok
  tükrében.
  Vizsgálódásaim helyszínének három - a kollektív identitásépítés konstruktivista
- és dekonstruktivista lépcsőinek különböző fokain álló - közösséget választottam
-, melyekhez a feldolgozott forrásokon túl személyes tapasztalatok is kötnek.
+ és dekonstruktivista lépcsőinek különböző fokain álló - közösségeket választott
+am, melyekhez a feldolgozott forrásokon túl személyes tapasztalatok is kötnek.
  A jelen korban is közösségépítő tevékenységet folytató Európai Únió, az
  átmeneti fázisban rekedt Magyarország, illetve a globalizáció úttörőjének
  számító Szingapúr kiváló lehetőséget biztosít az oktatás és fogyasztói
@@ -248,9 +248,9 @@ Alapfogalmak
 \end_layout
 
 \begin_layout Standard
-Miért van az, hogy egy országhatáron állva az országunkhoz közelebb eső
- helyekkel, falvakkal és emberekkel szemben erősebb kötődést, szolidaritást
- érzünk, mint az 
+Miért van az, hogy az országhatáron állva az országunkhoz közelebb eső helyekkel
+, falvakkal és emberekkel szemben erősebb kötődést, szolidaritást érzünk,
+ mint az 
 \begin_inset Quotes pld
 \end_inset
 
@@ -437,15 +437,187 @@ A nemzetépítés eszközei
 \end_layout
 
 \begin_layout Section
-Közktatás
+Közoktatás
 \end_layout
 
 \begin_layout Section
 Nyelv
 \end_layout
 
+\begin_layout Standard
+Anderson szerint a közös nyelv az elképzelt közösségekhez való tartozás
+ gyakorlati aktusa
+\begin_inset CommandInset citation
+LatexCommand cite
+after "37 p."
+key "koller_nemzet_identitas_eu"
+
+\end_inset
+
+, így az egyik legfontosabb, a mesterséges és tudatos nemzetépítéshez szükséges
+ építőelem.
+ Jó példa erre a XIX.
+ századi szlovák nemzetépítés, amely mind a cseh, mind a magyar, mind az
+ osztrák nemzetektől elhatárolódni kívánt.
+ Dušan Kovač - a Szlovák Tudományos Akadémia Történettudományi Intézetének
+ igazgatója - a középszlovák nyelvjárás 1843-as, irodalmi nyelvként való
+ kodifikálását amellett, hogy rendkívül fontos politikai lépésnek tartja,
+ még azt a meghatározó fordulatot is látja, amelynek nyomán a szlovákok
+ nyelvileg és irodalmilag megalapozták önálló nemzeti létüket.
+ Ezt a cseh történetírás és történelmi tudat a szlovákok elkülönüléseként
+ értelmezi, amire a szerző azt mondja, hogy ez az a cseh értelmezés, amelyre
+ 1945-ig azt az elmé­letet alapozták, hogy a szlovák nem külön nyelv, hanem
+ a csehnek egy nyelvjárása, egyik ága
+\begin_inset CommandInset citation
+LatexCommand cite
+key "cseh_es_szlovak_nyelv"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Érdemes megjegyeznünk a Said Edward, amerikai filozófus megállapítását,
+ mely szerint: 
+\begin_inset Quotes pld
+\end_inset
+
+a nyelv egyre kevésbé a külső hatalom és az emberi beszélő közötti kontinuitást,
+ mint inkább a nyelv használói által létrehozott és megvalósított belső
+ mezőt jelentette
+\begin_inset Quotes prd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "orientalizmus"
+
+\end_inset
+
+.
+ A fentiek alapján megállapíthatjuk, hogy mind a nemzetépítés folyamatában,
+ mind a nyelv alkalmazóihoz - mint elképzelet közösséghez - történő kapcsolódásh
+oz fontos a közös, más nemzetekétől megkülönböztethető anyanyelv ismerete.
+\end_layout
+
+\begin_layout Standard
+Ha a fentieket tudomásul véve szemléljük azt a tényt, hogy a világon jelenleg
+ ismert hatezer élő nyelv legalább felét súlyos veszély fenyegeti
+\begin_inset CommandInset citation
+LatexCommand cite
+key "alarm_disapp_lang"
+
+\end_inset
+
+, akkor érdekes következtetéseket vonhatunk le a távolabbi jővőre nézve
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+A legutóbbi ötszáz esztendőben a nyelvek 4,5 százaléke halt ki, ami éventelegalá
+bb tíz beszélt nyelvet jelent - Jessica Williams.
+ 
+\emph on
+Merre tart a világ?
+\emph default
+ HVG Könyvek, 2004.
+ 
+\end_layout
+
+\end_inset
+
+.
+ Az diverzitás csökkenésével az új nemzetépítési mozgalmak száma visszaeshet,
+ sikerességük esélyei csökkenhetnek.
+ Ezt kiegészítendő, az Internet - és egyéb médiumokból - árandó anglicizmus,
+ illetve más, a nyelveket közös irányba torzító hatás (legyen szó akár a
+ közoktatás nyelvének angolra vagy franciára cserélésére) mind-mind egy
+ közös, hibrid nyelv felé konvergál.
+ 
+\end_layout
+
+\begin_layout Standard
+Anderson szerint elképzelhetetlen, hogy a bábeli torony ledőlése előtti
+ állapot - egy közös, mindenki számára érthető nyelv - maradjon fent csupán
+\begin_inset CommandInset citation
+LatexCommand cite
+after "66-77 p."
+key "elkepzelt_kozossegek"
+
+\end_inset
+
+, azonban a nyelvek eltűnésével, devalválódásával, a közös szavak és kifejezésék
+ elterjedésével, valamint ezek nemzeti identitásra gyakorolt hatásával mindenkép
+pen számolnunk kell az elkövetkező évtizedekben.
+\end_layout
+
 \begin_layout Section
-Szimbólum- és mítoszrendszer
+Szimbólumok
+\end_layout
+
+\begin_layout Standard
+A konstruktívista identitáselméletek - legyen szó akár Hobsbawn vagy Anderson
+ nézeteiről - egyik alappillére a szimbólumokba vetett kollektív hit, bizalom.
+ Mindenki számára ismerős nemzeti azonosulást megtestesítő, hordozó jelképek
+ az amerikai szabadságszobor, a 
+\begin_inset Quotes pld
+\end_inset
+
+Le Marseillaise
+\begin_inset Quotes prd
+\end_inset
+
+ vagy a Nagy-Magyarország térkép.
+ Azonban a világban általánosan ismert szimbólumok nem a fentiekhez hasonló,
+ nemzeti vagy territoriális jelképek közül kerülnek ki.
+ 
+\begin_inset Quotes pld
+\end_inset
+
+Több ember ismeri föl a McDonald's arany logóját, mint Krisztus keresztjét
+\begin_inset Quotes prd
+\end_inset
+
+ - derül ki egy kilencvenes évekbeli felmérésből
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+A felmérést a Sponsorship Research International végezte Nagy-bRitanniában,
+ Németorságban, az Egyesült Államokban, Indiában, Japánban és Ausztráliában.
+ 
+\begin_inset Quotes pld
+\end_inset
+
+A Sign of the Times as Big Mac Becomes an Arch Rival of the Cross', Daily
+ Mall, 1995.
+ július 20.
+\end_layout
+
+\end_inset
+
+.
+ A kutatás eredménye egyértelmű: az előző évszázadok főbb kollektív identitáster
+emtő entitásai (vallások, nemzetek) gyengülnek, és egyre kevésbé versenyképesek
+ a nagyvállalatok szimbolumaival, azok ismertségével.
+ 
+\end_layout
+
+\begin_layout Standard
+Globálisan szemlélve a multinacionális cégek agresszív marketing és PR kampányai
+ révén sokkal szélesebb néptömegeket érnek el és mozgósítanak, mint amire
+ a nemzetek képesek világviszonylatban.
+ A lokális viszonyok napjainkban még az államoknak kedveznek: a család,
+ vallás, közoktatás és közszolgálatiság jelenleg még erősebb médium a jelképek
+ közvetítésére, mint a nagyvállalatok reklámhadjáratai.
+ Azonban a trendek egyértelműek: az új médiumok jobb felhasználásával -
+ horizontálisan és vertikálisan pozíciónált reklámkampányokkal, vírusmarketingge
+l, manipulációval - a transznacionális vállalatok sokkal hatékonyabban közvetíte
+nek szimbólumaik révén uniformizált értékrendeket, összetartozás érzést,
+ amelyek a jővőben csökkenthetik a hagyományos nemzeti szimbólumok jelentőségét.
 \end_layout
 
 \begin_layout Section
@@ -541,6 +713,24 @@ Internet Relay Chat - az első kifejezetten chat-re tervezett protokol
  érdemes észrevenni az amerikai médiából áramló nemzeti büszkéseg alulról
  szerveződő, hiteles forrásokból táplálkozó, állami struktúráktól független
  kritikáját.
+ Ebben az időszakban jelentek meg az Internetfüggőség, mint szenvedélybetegség.
+ Az 
+\begin_inset Quotes pld
+\end_inset
+
+
+\emph on
+chat
+\emph default
+
+\begin_inset Quotes prd
+\end_inset
+
+ elterjedésével egyidőben egyre többen ragadtak be a virtuális tér nyújtotta
+ lehetőségekbe: az anonimitást kihasználva a felhasználók saját maguk által
+ kreált személyiség möge bújhattak, amelyekkel újabb és újabb - képzelt
+ - közösségekhez férhettek hozzá.
+ Olyanokhoz is, amelyekre a való életben nem lett volna lehetőségük.
 \end_layout
 
 \begin_layout Standard
@@ -572,8 +762,12 @@ Az adat mint hajtóerő - A felhasználó birtokolja az információt, saját ma
 \end_layout
 
 \begin_layout Itemize
-Részvételen alapuló tervezés - Az eseményeket a felhasználó irányítja, az
- ő aktív közreműködésével jönnek létre az oldalak tartalmai.
+Részvételen alapuló tervezés - Az 
+\emph on
+eseményeket
+\emph default
+ a felhasználó irányítja, az ő aktív közreműködésével jönnek létre az oldalak
+ tartalmai.
  (Közösségi oldalak (social network oldalak), tematikus közösségi blogok)
 \end_layout
 
@@ -592,7 +786,103 @@ key "technorati"
 \end_inset
 
 .
+ A konstruktivisták korábbi axiómája, minszerint a 
+\begin_inset Quotes pld
+\end_inset
+
+sajtótermék mint áru
+\begin_inset Quotes prd
+\end_inset
+
+ jelenik meg a piacon, megdőlni látszik.
+ A teljesen önszervező, cenzúra és profitmentes médium elfordul a kapitalimus
+ eszméjétől, és saját, anarachikus módján közöl információkat, 
+\emph on
+értékeket
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+A Web2.0 ennél mélyebb személyiségformáló tényezőket is hordoz.
+ A világ egyik legnagyobb közösségi oldala, a facebook jelenleg 300 millió
+ aktív felhasználót számlál, akik naponta összesen 8 milliárd percet töltenek
+ a weboldalon
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Link: http://gigaom.com/2009/10/21/facebook-users-spend-8-billion-minutesday-on-t
+he-site/ - Letöltés ideje: 2009 november 4.
+\end_layout
+
+\end_inset
+
+.
+ Ez felhasználónként naponta 26 percet jelent, ami óriási szám ahhoz a tényhez
+ viszonyítva, hogy az oldal nem rendelkezik 
+\emph on
+saját
+\emph default
+ tartalommal.
+ Az oldal sikerének titka, hogy a látógatókat csoportokba, 
+\emph on
+valós és képzelt közösségekbe
+\emph default
+ rendeli, és köztük folyamatos interakciót indukál.
+ Több millió tematikus csoport található az oldalon, ahol az érdeklődési
+ körükben egyező felhasználók akár valós időben is beszélgethetnek egymással,
+ elmélyítve a közösségtudatukat.
+ Bár itt is van lehetőség a látógatók számára egymás megismerésére, mégis
+ az időigénye miatt ez nem megvalósítható.
+ Ezekre a közösségekre is jellemző tehát az anderson-i értelembe vett 
+\begin_inset Quotes pld
+\end_inset
+
+
+\emph on
+képzelt
+\emph default
+
+\begin_inset Quotes prd
+\end_inset
+
+ jelző.
+\end_layout
+
+\begin_layout Standard
+A számítástechnika további fejlődésével megjelent egy újabb közösségformáló
+ entitás, a számítógépes játék.
  
+\end_layout
+
+\begin_layout Standard
+A fentiekből következik, hogy az Interneten eltöltött órák száma folyamatosan
+ növekszik: 
+\begin_inset Quotes pld
+\end_inset
+
+ugyanis egyre több dolgot lehet csinálni az interneten
+\begin_inset Quotes prd
+\end_inset
+
+ 
+\emph on
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Link: http://www.sg.hu/cikkek/16261/a_nok_tobbsegben_vannak_az_interneten
+ - Letöltés ideje: 2009 november 4.
+\end_layout
+
+\end_inset
+
+
+\emph default
+ (sic!).
+ De milyen hatást gyakorol ez énképünkre, identitásunkra? 
 \end_layout
 
 \begin_layout Section

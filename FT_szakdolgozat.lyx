@@ -317,8 +317,8 @@ key "mi_a_nemzet"
 \end_inset
 
 .
- Renannak látta előre az integrációs törekvések eurólokális térnyerésének
- folyamatát, mégha ez a folyamat napjainkban megtorpanni is látszik.
+ Renan látta előre az integrációs törekvések eurólokális térnyerésének folyamatá
+t, mégha ez a folyamat napjainkban megtorpanni is látszik.
  Edmunk Burke is hasonlóképpen vélekedik a nemzetről (definíciónak még ezt
  sem nevezném): 
 \begin_inset Quotes pld
@@ -407,7 +407,7 @@ Szuverén
 \emph on
 ancient regime
 \emph default
--k bukása utána a politikai és vallási pluralizmus korszakában kezdődött.
+-k bukása után a politikai és vallási pluralizmus korszakában kezdődött.
  Az isteni elrendeltetés elvének, a hierarchikus és dinasztikus birodalmaknak
  a legitimitása megroppant, a nemzetek számára egyedül a szuverén állam
  jelenthette a járható utat.
@@ -422,6 +422,111 @@ key "elkepzelt_kozossegek"
 \end_inset
 
  
+\end_layout
+
+\begin_layout Standard
+A nemzethez hasonlóan, a nacionalizmusnak, mint 
+\emph on
+fogalomnak
+\emph default
+ a meghatározása is roppant nehézkes
+\begin_inset CommandInset citation
+LatexCommand cite
+after "vö: 13 p."
+key "koller_nemzet_identitas_eu"
+
+\end_inset
+
+.
+ Anthony D.
+ Smith nézetei szerint a nacionalizmus terminust négy fő értelemben használhatju
+k: „egyrészt, mint a nemzetek kialakulásának általános folyamatát, melyet
+ néha „
+\emph on
+nemzetalkotásnak
+\emph default
+” neveznek (a kifejezés azonban gyakran magában foglalja az államalkotás
+ folyamatait is); másrészt, mint
+\emph on
+ nemzeti érzést 
+\emph default
+vagy a nemzethez tartozás érzését, attitűdjét vagy tudatát, és annak jólétére,
+ erejére és biztonságára törekvést; harmadrészt, mint a nemzeti státus elérését
+ vagy fenntartását (annak minden velejárójával) politikai célként maga elétűző
+ 
+\emph on
+mozgalmat
+\emph default
+, beleértve az e cél elérésére szánt egy vagy több szervezetet és tevékenységet;
+ és végül negyedikként, mint tant, vagy tágabb értelemben vett 
+\emph on
+ideológiát
+\emph default
+, mely érdeklődése középpontjába a nemzetet helyezi, s amely annak autonómiáját,
+ egységét és identitástudatának megteremtését tűzi ki célként.
+ Ezen kívül néhány szerző különbséget tesz „politikai” és „kulturális” nacionali
+zmus között.
+ Az első a figyelmét a nemzet függetlenségének és szuverenitásának, a második
+ pedig a nemzeti identitásnak és kultúrájának létrejöttére és fenntartására
+ irányítja”
+\begin_inset CommandInset citation
+LatexCommand cite
+after "9 p."
+key "bretter_deak"
+
+\end_inset
+
+.
+ Dolgozatomban a fenti smith-i csoportosításból kiindulva azonban Koller
+ Boglárka megfogalmazását használom, mely szerint a "nacionalizmus mindazon
+ cselekedetek összessége, amelyeket az emberi populáció, illetve a népesség
+ egy része [...] a nemzethez való tartozás kifejeződéseként gyakorol"
+\begin_inset CommandInset citation
+LatexCommand cite
+after "14 p."
+key "koller_nemzet_identitas_eu"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+A különböző nacionalizmuselméletek, iskolák közötti legfontosabb eltérés
+ a modern nemzet eredetének kialakulásának körülményei, illetve a nemzet
+ építés előtti, azt megelőző entitásoknak tulajdonított szerepet eltérően
+ értékelők közötti különbségekből fakadnak.
+ 
+\begin_inset Quotes pld
+\end_inset
+
+A fentiek alapján, erősen sarkítva a nacionalizmuskutatás teoretikusai „modernis
+tákra” és - Kántor Zoltán terminusát alkalmazva - 
+\begin_inset Quotes pld
+\end_inset
+
+etnoszimbolistákra” oszthatók fel
+\begin_inset Quotes prd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+after "13 p."
+key "lajtai"
+
+\end_inset
+
+ (Koller azonban ugyanezen töréspont alapján az etnoszimbolisták helyett
+ egy tágabb irányzatot, az Eszencializmust jelöli meg
+\begin_inset CommandInset citation
+LatexCommand cite
+after "22 p."
+key "koller_nemzet_identitas_eu"
+
+\end_inset
+
+).
 \end_layout
 
 \begin_layout Section
@@ -662,7 +767,7 @@ Csapatmunka
 Decentralizált
 \emph default
 , hogy a hidegháborús környezetben egy esetleges atomtámadás ne tudja a
- rendszert megbénítani, ne legyen központi gépek, amelyek elpusztításával
+ rendszert megbénítani, ne legyenek központi gépek, amelyek elpusztításával
  a hálózat is elpusztítható.
  
 \end_layout
@@ -851,9 +956,50 @@ képzelt
 \end_layout
 
 \begin_layout Standard
-A számítástechnika további fejlődésével megjelent egy újabb közösségformáló
- entitás, a számítógépes játék.
- 
+A számítástechnika további fejlődésével ennél több, web2.0-tól független
+ közösségformáló entitás is megjelent, mint például a hálózati játékok.
+ Ennek legékesebb példája a World of Warcraft
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+World of Wordcraft: http://www.worldofwarcraft.com/
+\end_layout
+
+\end_inset
+
+ világa, amely ha valós ország lenne, akkor a 75.
+ legnépesebb lehetne a világon.
+ Ezzel megelőzne olyan nemzeteket, mint a magyar 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Link: http://index.hu/tech/blog/2008/10/29/a_world_of_warcraft_mar_nagyobb_mint_m
+agyarorszag/ - Letöltés ideje: 2009 November 9.
+\end_layout
+
+\end_inset
+
+.
+ A virtuális világ saját fizetőeszközzel, kormánnyal, egymással szövetségben
+ és háborúkban álló nemzetekkel rendelkezik - teljes mértékben függetlenül
+ a valóságtól.
+ Érdekes megjegyezni, hogy Dr.
+ Maressa Orzack, a Kolumbiai Egyetem pszichológus professzora szerint a
+ WoW világában élő, virtuális nemzetekhez tartozó játokosok csaknem 40%
+ komoly függőséggel rendelkezik
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Link: http://arstechnica.com/old/content/2006/08/7459.ars - Letöltés ideje:
+ 2009 November 9.
+\end_layout
+
+\end_inset
+
+, amelyek csökkentik a valós társadalmak iránti igényeket.
 \end_layout
 
 \begin_layout Standard
@@ -881,8 +1027,44 @@ Link: http://www.sg.hu/cikkek/16261/a_nok_tobbsegben_vannak_az_interneten
 
 
 \emph default
- (sic!).
- De milyen hatást gyakorol ez énképünkre, identitásunkra? 
+.
+ De milyen hatást gyakorol ez énképünkre, identitásunkra? A kérdésre adott
+ választ érdemes kettébontanunk.
+\end_layout
+
+\begin_layout Standard
+Egyrészt az Internet csupán katalizátor, amely alapvetően csak erősíti az
+ egyes identitásainkat.
+ Amennyiben erős nemzeti érzelemmel rendelkezünk, segítségével más, nacionalista
+ tartalmakat érhetünk el, alátámaszthatjuk nézeteinket, valamint hasonló
+ gondolkodású emberekkel alakíthatunk ki új kapcsolatokat.
+ Ez igaz fordítva is, ha valaki nyitott, kozmopolita, nemzetállami struktúráktól
+ független nézőponttal ül le az Internet elé, akkor valószínűleg az ő preferenci
+áinak megfelelő információkat, adatokat fog böngészni, befogadni.
+\end_layout
+
+\begin_layout Standard
+Másrészt viszont azok a generációk, amelyek még nem rendelkeznek teljesen
+ stabil identitással, - személyiségük még formálódik, képlékeny - azok számára
+ a világháló elsősorban a nemzetektől és határoktól függetlenség eszméjeként
+ fog tudatukba beépülni.
+ Legyen szó akár egy nemzetközi szociális hálózatról, a kedvenc énekese
+ blogjáról, vagy a legújabb FPS
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+First Person Shooter - egyéni nézőpontból látszó, többnyire agresszív katonai
+ csapatjáték
+\end_layout
+
+\end_inset
+
+ szerveren töltött időről a többi ország játékosaival.
+ Ez a nyitottság, ezek a nacionalizmustól független kollektív identitásépítő
+ mechanizmusok képesek gyengíteni a nemzeti identitást, mert valós, személyes
+ élményeken alapulnak, és legalább olyan erős szimbólumokkal és rítusokkal
+ rendelkeznek, mint a nemzet maga.
 \end_layout
 
 \begin_layout Section

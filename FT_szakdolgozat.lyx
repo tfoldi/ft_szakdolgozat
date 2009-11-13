@@ -198,18 +198,18 @@ Munkám első felében a globalizált társadalom egyes aktorainak céljait kív
  Vizsgálódásaim helyszínének három - a kollektív identitásépítés konstruktivista
  és dekonstruktivista lépcsőinek különböző fokain álló - közösségeket választott
 am, melyekhez a feldolgozott forrásokon túl személyes tapasztalatok is kötnek.
- A jelen korban is közösségépítő tevékenységet folytató Európai Únió, az
+ A jelen korban is közösségépítő tevékenységet folytató Európai Unió, az
  átmeneti fázisban rekedt Magyarország, illetve a globalizáció úttörőjének
  számító Szingapúr kiváló lehetőséget biztosít az oktatás és fogyasztói
  magatartás elemzésére, a hatalmi törekvések megértésére.
- Az ellenpólus vizsgálatakor főleg a fortune 500 vállalataira, valamint
+ Az ellenpólus vizsgálatakor főleg a Fortune 500 vállalataira, valamint
  a hozzájuk kapcsolható céges, fogyasztói és szubkultúrák működésére, ezek
  nemzeti identitásra, érzelmekre kifejtett hatására koncentrálok.
  
 \end_layout
 
 \begin_layout Standard
-A második részben a folyamatok középtávú hatásait, egy lehetséges jővőképet
+A második részben a folyamatok középtávú hatásait, egy lehetséges jövőképet
  próbálok felvázolni a jelenlegi trendek egyfajta folytatásaként.
  Számos felmerülő kérdés megválaszolására teszek kísérletet: 
 \begin_inset Quotes eld
@@ -259,16 +259,16 @@ idegen
 \begin_inset Quotes prd
 \end_inset
 
- ország irányában, mégha a távolság a vizsgált entitásoktól megegyezik?
+ ország irányában, még ha a távolság a vizsgált entitásoktól megegyezik?
  Miért drukkolunk hazánk sportolóinak, holott nem is ismerjük őket személyesen?
  Miért érezzük magunkénak nemzetünk természeti kincseit, és miért érezzük
  másokénak a határ mögötti, mesterséges demarkációs vonallal elválasztottakat?
  Miért áldozzák fel életüket milliók nemzetükért? Bármilyen válasz is érkezik,
- ha öszintén belegondolunk, a hazaszeret és nacionalizmus alapvetően érzelmi
+ ha őszintén belegondolunk, a hazaszeret és nacionalizmus alapvetően érzelmi
  projekció, amely ellehetetleníti a logikus gondolkozás és érvelés útján
  történő megértését.
  De pontosan mi is a nacionalizmus, honnan fakad, mióta él bennünk és meddig
- kell vele együttélnünk? 
+ kell vele együtt élnünk? 
 \end_layout
 
 \begin_layout Standard
@@ -277,11 +277,11 @@ Már a nemzet, mint fogalom jelentésének magyarázata sem egyszerű: minden
  logikai és érzelmi projekciók mentén próbálja definiálni a nemzetet, mint
  közösségi entitást.
  A XIX.
- század klasszikus francia filozófusa, Ernest Renan a következő képpen értelmezi
+ század klasszikus francia filozófusa, Ernest Renan a következőképpen értelmezi
  a nemzet fogalmát: "A nemzet lélek, szellemi alapelv.
  Ezt a lelket, ezt a szellemi princípiumot két dolog alkotja, mely azonban
  voltaképpen egy.
- Az első a múltban gyökerezzik, a másik a jelenben.
+ Az első a múltban gyökeredzik, a másik a jelenben.
  Az egyik: emlékek gazdag örökségének közös birtoklása, a másik: a jelenlegi
  megegyezés, vágy arra, hogy közösen éljünk, annak szándéka, hogy a továbbiakban
  is kamatoztassuk az osztatlanul kapott örökséget
@@ -297,8 +297,7 @@ Ernest Renan,
 \emph on
 Mi a nemzet?
 \emph default
- In: Koller Boglárka.
- 
+ In: Koller Boglárka, 
 \emph on
 Nemzet, identitás és politika Európában
 \emph default
@@ -336,7 +335,7 @@ ibid.
 
 .
  Renan látta előre az integrációs törekvések eurólokális térnyerésének folyamatá
-t, mégha ez a folyamat napjainkban megtorpanni is látszik.
+t, még ha ez a folyamat napjainkban megtorpanni is látszik.
  Edmunk Burke is hasonlóképpen vélekedik a nemzetről (definíciónak még ezt
  sem nevezném): 
 \begin_inset Quotes pld
@@ -382,7 +381,7 @@ key "elkepzelt_kozossegek"
 elképzelt
 \emph default
 , hiszen még a legkisebb nemzetek tagjai sem ismerik, ismerhetik egymást
- személyesen, sőt, mégcsak egymás létezéséről sem tudnak.
+ személyesen, sőt, még csak egymás létezéséről sem tudnak.
  Mégis és bennük van az egymás iránti szolidaritás, az egy közösséghez való
  tartozás hamis képe.
  
@@ -447,7 +446,7 @@ A nemzethez hasonlóan, a nacionalizmusnak, mint
 \emph on
 fogalomnak
 \emph default
- a meghatározása is roppant nehézkes
+ a meghatározása is roppant nehézkes 
 \begin_inset CommandInset citation
 LatexCommand cite
 after "vö: 13 p."
@@ -496,13 +495,25 @@ Smith, Anthony D.,
 A nacionalizmus
 \emph default
  In: Lajtai L.
- László.
- 
+ László, 
 \emph on
 Nemzetkép az iskolai történelemoktatásban
 \emph default
  1777-1848.
  Iskolakultúra, Pécs, 2004., 10 p.
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+noibid
 \end_layout
 
 \end_inset
@@ -566,7 +577,7 @@ A két tábor közül a modernisták támogatottsága nagyobb, azaz azoké, akik
  a nemzetet a modern korban konstruálált, „elképzelt” közösségnek fogják
  fel.
  Ernest Geller következőképpen foglalja össze saját, modernista felfogású
- nacionalizmus definicióját: „a nacionalizmus nem a nemzetek öntudatra ébredése,
+ nacionalizmus definícióját: „a nacionalizmus nem a nemzetek öntudatra ébredése,
  hanem nemzeteket alakít ki ott, ahol azok nem léteznek”
 \begin_inset Foot
 status open
@@ -601,12 +612,264 @@ key "hobsbawn"
 .
 \end_layout
 
+\begin_layout Standard
+A szintén konstruktivista Anderson szerint a nemzetépítési folyamatok kiváltó
+ okai egyrészt a szakrális világban és dinasztikus birodalmak legitimitásában
+ vetett hit megrendülésében, a szakrális nyelvek pozícióveszéseivel (Luther
+ féle reformáció és anyanyelvi bibliák), a földrajzi felfedezésekkel kapcsolatos
+ kulturális és etnikai látásmód kitágulásában, a világi tudományok fejlődésével,
+ valamint egy alapvetően új időfelfogásban, a 
+\begin_inset Quotes pld
+\end_inset
+
+homogén, üres idő
+\begin_inset Quotes prd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+after "34 p."
+key "elkepzelt_kozossegek"
+
+\end_inset
+
+ gondolatának megjelenésében keresendő
+\begin_inset CommandInset citation
+LatexCommand cite
+after "vö: 18 p."
+key "lajtai"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Fontos kiemelni a halhatatlanság koncepcióját a nacionalizmus elterjedésének,
+ a nemzethez, mint elképzelt közösséghez való irreális kötődés megértéséhez.
+ Az emberiséget a vallások elsődlegesen a halál utáni túlvilág demisztifikációjá
+val tudták mobilizálni, a vallási erkölcsök alapja is többnyire az életben
+ elkövetett bűnök és a halál utáni 
+\begin_inset Quotes pld
+\end_inset
+
+élet
+\begin_inset Quotes prd
+\end_inset
+
+ relációjában gyökeredzett.
+ A vallásoktól való elfordulás, a szekularizáció, a tudomány, mint vallás
+ megjelenése azonban zavart keltett a fatalitás megértésében és elfogadásában.
+ A vallások által nyújtott halhatatlanság mellett a társadalomnak újabb,
+ a halál elfogadását elősegítő koncepciókra, látens magyarázatokra volt
+ szüksége.
+ Ezt az űrt töltötte be a nacionalizmus, ahol az egyén halála - esetleg
+ hősies önfeláldozása - nem zavarja meg a kontinuitást, a nemzet mindenképpen
+ tovább él, az egyén értékei, hagyományai, szimbólumai és nyelve fennmaradnak
+\begin_inset CommandInset citation
+LatexCommand cite
+after "vö: 23 p."
+key "koller_nemzet_identitas_eu"
+
+\end_inset
+
+.
+ Ez indokolja, hogy miért hajlandóak a társadalom egyes tagjai olyan szélsőséges
+, az alapvető, civilizált emberi értékektől idegen aktusokra, mint más ember
+ meggyilkolása vagy saját maguk feláldozása - vagyis háborúk vívására
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+A magyar nemzetépítésben megjelenő 
+\begin_inset Quotes pld
+\end_inset
+
+nemzethalál
+\begin_inset Quotes prd
+\end_inset
+
+ is a folytonosság megtörésének rémképével manipulált, ezzel indukálva a
+ szélsőséges cselekedetek iránti hajlandóságot
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Végezetül Schöplin György nacionalizmusról formált gondolatait idézem: 
+\begin_inset Quotes pld
+\end_inset
+
+A nacionalizmus a modern nemzet támaszát jelentő legitimációs doktrínaként
+ nyeri el alapvető jelentőségét.
+ A nemzet pedig a modernitás legfontosabb politikai tere, amely nélkül a
+ demokrácia és az állampolgárság fogalmait nehéz elképzelni
+\begin_inset Quotes prd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+after "11 p."
+key "modern_nemzet"
+
+\end_inset
+
+.
+ Schöplin szerint a nacionalizmus fő ígérete, hogy a 
+\begin_inset Quotes pld
+\end_inset
+
+szabadság és egyenjogúság ígéretét hordozza
+\begin_inset Quotes prd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "modern_nemzet"
+
+\end_inset
+
+, tehát a hatalom egyfajta redisztribúciója, amelyben minden állampolgár
+ testvériesen osztozhat.
+ Véleményem szerint bár a megállapítás igaz lehet a nemzetek kialakulásának
+ időszakára, a nemzet és nacionalizmus valamint a demokrácia összefonódása
+ nem szükségszerű.
+ Jó példa erre az Európai Unió, amelynek demokratikus intézményei csak áttételes
+en épülnek nacionalista pillérekre.
+\end_layout
+
 \begin_layout Section
 Nemzetépítő mozgalmak
 \end_layout
 
+\begin_layout Standard
+Hogy jobban értsük a nemzetépítés anatómiáját és eszközrendszerét, célszerű
+ egy konkrét példán, esettanulmányon keresztül megvizsgálni a konstrukció
+ egyes elemeit.
+ Az Egyesült Királyság 1707-es megalakulásakor még nem beszélhettünk közös
+ brit identitásról, a skót, wales-i és angol azonosságtudat még markánsan
+ elkülönültek egymástól
+\begin_inset CommandInset citation
+LatexCommand cite
+after "108 p."
+key "koller_nemzet_identitas_eu"
+
+\end_inset
+
+.
+ Azonban a társadalmi rend legitimizálásához és a tömegek jobb mozgósíthatóságáh
+oz elengedhetetlen volt a koherens brit identitás megteremtése.
+ A XIX.
+ századi liberálisabb kormányzás idején, a közoktatás elterjedésével megindult
+ az újabb generációk agresszív, asszimilatív manipulációja.
+ 
+\begin_inset Quotes pld
+\end_inset
+
+A walesi gyermekeknek például, ha egyáltalán meg mertek szólalni walesiül,
+ walesi feliratos szégyentáblát kellett a nyakukba akasztaniuk.
+ Minden 
+\begin_inset Quotes pld
+\end_inset
+
+brit
+\begin_inset Quotes prd
+\end_inset
+
+ köteles volt lojalitást tanúsítani az új brit nemzeti szimbólumok iránt:
+ helyes angolsággal beszélni, vigyázzállásban énekelni az 
+\begin_inset Quotes pld
+\end_inset
+
+Isten, óvd meg nemes királyunkat
+\begin_inset Quotes prd
+\end_inset
+
+ kezdetű himnuszt, s tisztelegni az 1801-től létező brit nemzeti lobogónak,
+ az Union Jacknek
+\begin_inset Quotes prd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Norman Davies, 
+\emph on
+Európa története
+\emph default
+ In: Koller, 
+\emph on
+Nemzet, identitás és politika Európában
+\emph default
+ cit., 109 p.
+\end_layout
+
+\end_inset
+
+.
+ Ez a markáns és 
+\emph on
+tudatos
+\emph default
+ nemzetépítés sikeresen integrálta - az angol kivételével egyébként teljes
+ mértékben elnyomott - alnemzeteket, megteremtve a közös brit identitást.
+\end_layout
+
+\begin_layout Standard
+Bár a különböző nemzetek nemzetépítési mozgalmainak eszköztára eltér egymástól,
+ a legtöbb esetben azonban a fentiekhez hasonló módszerekkel zajlik.
+ Eszerint a nemzetépítés főbb csatornái a közoktatás, köznyelv, intézmények
+ és szimbólumok.
+ Dolgozatom későbbi részeiben ezek mint kiemelt elemzési szempontok fognak
+ megjelenni.
+\end_layout
+
 \begin_layout Section
 Nemzetépítés napjainkban
+\end_layout
+
+\begin_layout Standard
+A nemzetépítés napjainkban is létező, markáns jelenség.
+ Legyen szó akár új nemzetállamok születéséről (lásd Koszovó), vagy a jelenlegi
+ nemzetállami struktúrák elmélyítését szolgáló intézkedésekről.
+ Világviszonylatban elmondható, hogy a közoktatásban még mindig túl hangsúlyos
+ a nemzeti történelem oktatása, erősen manipulatív a közszolgálati média,
+ valamint nehezen megkerülhetőek a szimbólumok és intézmények.
+ Ilyen intenzitású kondiciónálás tükrében nem meglepő, ha az emberek tudatába
+ beépül a nacionalitás, és mint saját gondolat, saját ideológia manifesztálódik.
+\end_layout
+
+\begin_layout Standard
+Érdemes még két újabb, jelenkorra kiemelten releváns nemzetépítési stratégiákban
+ megjelenő hatást megnevezni.
+ Az első a terrorizmus, amely már nem csak a nemzetre, hanem az egyénre
+ is veszélyes tényezőként jelenik meg a politikában.
+ Az ettől a veszélytől való félelem képes volt a nacionalizmussal karöltve
+ újabb háborúk kirobbantására, illetve a politikai, nemzeti és demokratikus
+ gondolkodás megreformálására.
+ A második a 2008-as világválság, és az arra megoldást nyújtó 
+\begin_inset Quotes pld
+\end_inset
+
+nemzeti önellátás
+\begin_inset Quotes prd
+\end_inset
+
+, amely szintén a képzelt közösség tagjai közötti bajtársiasságra épít.
+ Sajnos ez a fajta lokál patriotizmus ellentmond a nemzetközi integrációs
+ törekvéseknek (legyen szó akár az EU-ról, akár az ASEAN-ról), veszélyezteti
+ azok legitimitását, csökkenti a beléjük vetett bizalmat.
+ A fenti esetekben egyértelműen látszanak a nemzetépítő mozgalmak káros,
+ erodáló hatásai.
 \end_layout
 
 \begin_layout Chapter
@@ -615,6 +878,10 @@ A nemzetépítés eszközei
 
 \begin_layout Section
 Közoktatás
+\end_layout
+
+\begin_layout Standard
+magyar és szingapúri összehasonlítása
 \end_layout
 
 \begin_layout Section
@@ -676,8 +943,8 @@ key "orientalizmus"
 
 .
  A fentiek alapján megállapíthatjuk, hogy mind a nemzetépítés folyamatában,
- mind a nyelv alkalmazóihoz - mint elképzelet közösséghez - történő kapcsolódásh
-oz fontos a közös, más nemzetekétől megkülönböztethető anyanyelv ismerete.
+ mind a nyelv alkalmazóihoz - mint elképzelt közösséghez - történő kapcsolódásho
+z fontos a közös, más nemzetekétől megkülönböztethető anyanyelv ismerete.
 \end_layout
 
 \begin_layout Standard
@@ -689,7 +956,7 @@ key "alarm_disapp_lang"
 
 \end_inset
 
-, akkor érdekes következtetéseket vonhatunk le a távolabbi jővőre nézve
+, akkor érdekes következtetéseket vonhatunk le a távolabbi jövőre nézve
 \begin_inset Foot
 status open
 
@@ -709,7 +976,7 @@ Merre tart a világ?
 .
  Az diverzitás csökkenésével az új nemzetépítési mozgalmak száma visszaeshet,
  sikerességük esélyei csökkenhetnek.
- Ezt kiegészítendő, az Internet - és egyéb médiumokból - árandó anglicizmus,
+ Ezt kiegészítendő, az Internet - és egyéb médiumokból - áradó anglicizmus,
  illetve más, a nyelveket közös irányba torzító hatás (legyen szó akár a
  közoktatás nyelvének angolra vagy franciára cserélésére) mind-mind egy
  közös, hibrid nyelv felé konvergál.
@@ -736,7 +1003,7 @@ Szimbólumok
 \end_layout
 
 \begin_layout Standard
-A konstruktívista identitáselméletek - legyen szó akár Hobsbawn vagy Anderson
+A konstruktivista identitáselméletek - legyen szó akár Hobsbawn vagy Anderson
  nézeteiről - egyik alappillére a szimbólumokba vetett kollektív hit, bizalom.
  Mindenki számára ismerős nemzeti azonosulást megtestesítő, hordozó jelképek
  az amerikai szabadságszobor, a 
@@ -763,7 +1030,7 @@ Több ember ismeri föl a McDonald's arany logóját, mint Krisztus keresztjét
 status open
 
 \begin_layout Plain Layout
-A felmérést a Sponsorship Research International végezte Nagy-bRitanniában,
+A felmérést a Sponsorship Research International végezte Nagy-Britanniában,
  Németorságban, az Egyesült Államokban, Indiában, Japánban és Ausztráliában.
  
 \begin_inset Quotes pld
@@ -779,7 +1046,7 @@ A Sign of the Times as Big Mac Becomes an Arch Rival of the Cross', Daily
 .
  A kutatás eredménye egyértelmű: az előző évszázadok főbb kollektív identitáster
 emtő entitásai (vallások, nemzetek) gyengülnek, és egyre kevésbé versenyképesek
- a nagyvállalatok szimbolumaival, azok ismertségével.
+ a nagyvállalatok szimbólumaival, azok ismertségével.
  
 \end_layout
 
@@ -791,10 +1058,10 @@ Globálisan szemlélve a multinacionális cégek agresszív marketing és PR kam
  vallás, közoktatás és közszolgálatiság jelenleg még erősebb médium a jelképek
  közvetítésére, mint a nagyvállalatok reklámhadjáratai.
  Azonban a trendek egyértelműek: az új médiumok jobb felhasználásával -
- horizontálisan és vertikálisan pozíciónált reklámkampányokkal, vírusmarketingge
+ horizontálisan és vertikálisan pozícionált reklámkampányokkal, vírusmarketingge
 l, manipulációval - a transznacionális vállalatok sokkal hatékonyabban közvetíte
 nek szimbólumaik révén uniformizált értékrendeket, összetartozás érzést,
- amelyek a jővőben csökkenthetik a hagyományos nemzeti szimbólumok jelentőségét.
+ amelyek a jövőben csökkenthetik a hagyományos nemzeti szimbólumok jelentőségét.
 \end_layout
 
 \begin_layout Section
@@ -845,7 +1112,7 @@ Decentralizált
 \end_layout
 
 \begin_layout Standard
-Az ARPANET megjelenése óta eltelt negyven évben a fenti szempontok mitsem
+Az ARPANET megjelenése óta eltelt negyven évben a fenti szempontok mit sem
  koptak, a továbbra is IP protokollra épülő hálózat gyakorlatilag elpusztíthatat
 lan, és ami ennél is fontosabb, decentralizált architektúrájából fakadóan
  nincsen olyan entitás, ami a cenzúrázására képes lenne
@@ -882,12 +1149,12 @@ Internet Relay Chat - az első kifejezetten chat-re tervezett protokol
  csatornákon osztották meg a háború történéseit valós időben.
  A globális médiumokat kikerülve a felhasználók közvetlen kapcsolatba léptek
  egymással, függetlenül nemzetüktől, identitásuktól.
- A témák között az aktuális történéseken túl feltüntek a lokális médiumok
+ A témák között az aktuális történéseken túl feltűntek a lokális médiumok
  interpretációi és az amerikai katonák által leírt valóságos helyzetek közötti
  eltérések elemzései, valamint az amerikai sajtó patrióta és szenzációhajhász
  híreinek kritikái.
  Itt ugyan még nem figyelhető meg a nemzeti identitás sérülése, de mindenképpen
- érdemes észrevenni az amerikai médiából áramló nemzeti büszkéseg alulról
+ érdemes észrevenni az amerikai médiából áramló nemzeti büszkeség alulról
  szerveződő, hiteles forrásokból táplálkozó, állami struktúráktól független
  kritikáját.
  Ebben az időszakban jelentek meg az Internetfüggőség, mint szenvedélybetegség.
@@ -903,9 +1170,9 @@ chat
 \begin_inset Quotes prd
 \end_inset
 
- elterjedésével egyidőben egyre többen ragadtak be a virtuális tér nyújtotta
+ elterjedésével egy időben egyre többen ragadtak be a virtuális tér nyújtotta
  lehetőségekbe: az anonimitást kihasználva a felhasználók saját maguk által
- kreált személyiség möge bújhattak, amelyekkel újabb és újabb - képzelt
+ kreált személyiség mögé bújhattak, amelyekkel újabb és újabb - képzelt
  - közösségekhez férhettek hozzá.
  Olyanokhoz is, amelyekre a való életben nem lett volna lehetőségük.
 \end_layout
@@ -963,7 +1230,7 @@ key "technorati"
 \end_inset
 
 .
- A konstruktivisták korábbi axiómája, minszerint a 
+ A konstruktivisták korábbi axiómája, miszerint a 
 \begin_inset Quotes pld
 \end_inset
 
@@ -972,8 +1239,8 @@ sajtótermék mint áru
 \end_inset
 
  jelenik meg a piacon, megdőlni látszik.
- A teljesen önszervező, cenzúra és profitmentes médium elfordul a kapitalimus
- eszméjétől, és saját, anarachikus módján közöl információkat, 
+ A teljesen önszervező, cenzúra és profitmentes médium elfordul a kapitalizmus
+ eszméjétől, és saját, anarchikus módján közöl információkat, 
 \emph on
 értékeket
 \emph default
@@ -1002,7 +1269,7 @@ he-site/ - Letöltés ideje: 2009 november 4.
 saját
 \emph default
  tartalommal.
- Az oldal sikerének titka, hogy a látógatókat csoportokba, 
+ Az oldal sikerének titka, hogy a látogatókat csoportokba, 
 \emph on
 valós és képzelt közösségekbe
 \emph default
@@ -1010,7 +1277,7 @@ valós és képzelt közösségekbe
  Több millió tematikus csoport található az oldalon, ahol az érdeklődési
  körükben egyező felhasználók akár valós időben is beszélgethetnek egymással,
  elmélyítve a közösségtudatukat.
- Bár itt is van lehetőség a látógatók számára egymás megismerésére, mégis
+ Bár itt is van lehetőség a látogatók számára egymás megismerésére, mégis
  az időigénye miatt ez nem megvalósítható.
  Ezekre a közösségekre is jellemző tehát az anderson-i értelembe vett 
 \begin_inset Quotes pld
@@ -1059,7 +1326,7 @@ agyarorszag/ - Letöltés ideje: 2009 November 9.
  a valóságtól.
  Érdekes megjegyezni, hogy Dr.
  Maressa Orzack, a Kolumbiai Egyetem pszichológus professzora szerint a
- WoW világában élő, virtuális nemzetekhez tartozó játokosok csaknem 40%
+ WoW világában élő, virtuális nemzetekhez tartozó játékosok csaknem 40%
  komoly függőséggel rendelkezik
 \begin_inset Foot
 status open

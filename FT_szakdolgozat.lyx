@@ -8,6 +8,10 @@
 \usepackage[magyar]{babel}
 \usepackage{inlinebib}
 \usepackage{fancyhdr} 
+%\usepackage[vcentering,dvips]{geometry} 
+\usepackage[dvips]{geometry} 
+%\geometry{papersize={210mm,297mm},total={155mm,247mm}} 
+\geometry{total={155mm,247mm}} 
 \end_preamble
 \use_default_options true
 \language magyar
@@ -132,13 +136,6 @@ Program{Nemzetközi Tanulmányok}
 
 
 \backslash
-titlepage
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
 textpages
 \end_layout
 
@@ -165,27 +162,23 @@ fancyhf{}  %  clear  all  header  and  footer  fields
 
 \begin_layout Plain Layout
 
-%
-\backslash
-fancyfoot[R]{
-\backslash
-addvspace{0cm} 
-\backslash
-thepage}  %  except  the  center 
-\end_layout
 
-\begin_layout Plain Layout
-
-%
 \backslash
-headheight{0pt}
+headsep 20pt
 \end_layout
 
 \begin_layout Plain Layout
 
 
 \backslash
-leftmargin 2cm 
+voffset 1cm
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+oddsidemargin 3cm 
 \end_layout
 
 \begin_layout Plain Layout
@@ -199,11 +192,11 @@ thepage}  %  except  the  center
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 fancyhead[L]{
 \backslash
-chaptermark}  %  except  the  center 
+leftmark}  %  except  the  center 
 \end_layout
 
 \begin_layout Plain Layout
@@ -610,6 +603,28 @@ key "koller_nemzet_identitas_eu"
 \end_inset
 
 .
+ Ezt kiegészíteném a nacionalizmus a szó szűkebb, pejoratív jelentésű értelmezés
+ével, amely kapcsán Dénes Iván Zoltán így fogalmaz: 
+\begin_inset Quotes pld
+\end_inset
+
+a nacionalizmus a szó [...] a saját közösség mások felettiségét, kirekesztést,
+ a másokkal szembeni agressziót, a szabadságellenes közösséget, a közösség
+ ügyét a szabadság ügyével szembeállítva jelöli
+\begin_inset Quotes prd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+after "letöltés ideje: 2009 November 14."
+key "pejorativ_nacionalizmus"
+
+\end_inset
+
+.
+ Dénes szerint a szó eszerinti értelmezése gyakran elnyomja a nacionalizmus
+ fogalom többi jelentését.
 \end_layout
 
 \begin_layout Standard
@@ -960,7 +975,247 @@ Közoktatás
 \end_layout
 
 \begin_layout Standard
-magyar és szingapúri összehasonlítása
+A közoktatásban zajló folyamatokat két aspektusból érdemes vizsgálni.
+ Az első a nemzeti és egyetemes történelem, valamint az irodalom oktatásának
+ problametikája, a tudásanyagban rejlő manipulatív tartalmak megértése.
+ A második elemzési szál az oktatás nyelve és a versenyképesség közötti
+ kapcsolat feltárása.
+\end_layout
+
+\begin_layout Standard
+A történelemtudomány és a nacionalizmus kölcsönhatásáról számos tudományos
+ diskurzus és elmélet született, főképpen az elmúlt három évtizedben.
+ Vajon mi a célja a nemzeti történelem írásának és oktatásának? Michael
+ Foucault, francia filozófus-történész a következő megállapítást teszi a
+ kérdéssel kapcsolatban: „a historiográfia szintén egyike azoknak a diskurzusokn
+ak, melyek jelenbeli 
+\emph on
+társadalmi érdekeket
+\emph default
+, mentális elvárásokat és persze akut hatalmi szükségleteket (intézményi
+ legitimációt) szolgálnak ki.”
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Michel Foucault, 
+\emph on
+A diskurzus rendje
+\emph default
+ In: Lajtai, 
+\emph on
+Nemzetkép az iskolai történelemoktatásban 1777-1848
+\emph default
+ cit., 22 p.
+\end_layout
+
+\end_inset
+
+.
+ Ez a legitimáció a nemzeti történelemnek múltból gyökeredző folytonosságából,
+ teljeségéből fakad, amely a vallások univerzumot értelmező szentírásaihoz
+ hasonlóan koherens, konzisztens képet festenek a világról, az az abban
+ élő egyének sorsáról.
+ Szentek és vallási személyek helyett azonban tudósok és történészek teremtik
+ meg a múlttal kapcsolatos kérdésekre a válaszokat
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Eric Hobsbawm, 
+\emph on
+Tömeges hagyományteremtés
+\emph default
+ In: 
+\emph on
+ibid.
+\emph default
+, vö: 24 p.
+\end_layout
+
+\end_inset
+
+.
+ Anthony D.
+ Smith erről így fogalmaz: „Vonzereje [ti.
+ a professzionális történetírásé] pontosan ama képességébõl fakad, hogy
+ az univerzumot éppúgy egy (nyilvánvalóan) általános képbe foglalja, mint
+ a régi vallásos világképek, anélkül, hogy ehhez segítségül hívna egy külső
+ teremtő elvet; ugyanakkor egybeolvasztja a múltat (a hagyományt), a jelent
+ (az észt) és a jövőt (a tökéletesbülést).”
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Anthony D.
+ Smith: 
+\emph on
+A nacionalizmus és a történészek
+\emph default
+ In: 
+\emph on
+ibid.
+\emph default
+, 24 p.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A nemzetünk sorsának 
+\emph on
+egyedülállósága
+\emph default
+ szintén fontos jelentőséggel bír.
+ Smith szerint ez az egyediség nem véletlen, hanem a történetírók tudatos
+ kreálmányai: „A filológusok mellett a történészek voltak saját ambiciózus
+ nemzetük értelmi szerzői és a nemzet tulajdonságainak meghatározói.”
+\begin_inset CommandInset citation
+LatexCommand cite
+after "5 p."
+key "nacionalizmus_es_torteneszek"
+
+\end_inset
+
+ Ezen a kitalációk fő célja az érzelmi kötődés megteremtése, egyfajta valláshoz
+ hasonló, kollektív identitásképző attitűd megteremtése, melynek programozása
+ és átadása az iskolarendszerekre hárult.
+ Klasszikus példa erre a francia Harmadik Köztársaság oktatási programja,
+ amellyel a vidéken élő parasztokat manipulálták.
+ Eric Hobsbawm így fogalmaz: 
+\begin_inset Quotes pld
+\end_inset
+
+az újdonsült köztársasági hatalom egyik fő törekvése az egyház világi megfelelőj
+ének kifejlesztése volt az elemi oktatás formájában, amit átitattak forradalmi
+ és köztársasági elvekkel és tartalommal, és amit a papság – vagy szegénységük
+ miatt inkább a szerzetesek – világi megfelelői, az instituteur-ök, tanítók
+ irányítottak.
+\begin_inset Quotes prd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Eric Hobsbawm, 
+\emph on
+Tömeges hagyományteremtés
+\emph default
+ In: Lajtai, 
+\emph on
+Nemzetkép az iskolai történelemoktatásban 1777-1848
+\emph default
+ cit., 24 p.
+\end_layout
+
+\end_inset
+
+ A cél itt sem elsősorban a francia parasztok civilizálása, hanem az aktuális
+ politikai elit érdekei, vagyis a republikanizmus elmélyítése volt.
+ A később született nemzeteknél is megfigyelhető a történelemoktatás öntudatra
+ ébredése, elég egymás mellé rakni néhány XX.
+ század középről származó európai történelemkönyvet, és összehasonlítani
+ azok az adott nemzetre releváns tartalmát
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ez az összehasonlítás még ma is érdekes lehet egy román, szlovák és magyar
+ történelemkönyv vizsonyában
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+A fentiek alapján bátran kijelenthetjük, hogy a múlt nemzetépítő mozgalmai
+ nagyban támaszkodtak a közoktatásra.
+ De nem csak közvetlenül a történelemkönyvek sugallta nemzeti önérzetet
+ és az irodalmi szöveggyűjtemények gondosan szerkesztet műveiből áradó hazaszere
+tet voltak képesek az iskolák a még befolyásolható gyermekek agyába beprogramozn
+i.
+ Elég csak belegondolni a 
+\begin_inset Quotes pld
+\end_inset
+
+Hitvallás
+\begin_inset Quotes prd
+\end_inset
+
+ - ismertebb nevén magyar 
+\emph on
+hiszekegy - 
+\emph default
+irredenta vers első szakaszának kötelező mantrázásába az elemi iskolákban
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+„Hiszek egy Istenben, hiszek egy hazában: /Hiszek egy isteni örök igazságban,
+ /Hiszek Magyarország feltámadásában.” - itt is jól megfigyelhető a nacionalizmus
+ valláshoz hasonló eszközkészlete
+\end_layout
+
+\end_inset
+
+.
+ Az ilyen, és ehhez hasonló tudat- és gondolatformáló cselekedetek nem tűnnek
+ el tudatunkból, beépülnek személyiségünkbe.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+noibid
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A következő - a közoktatással kapcsolatban vizsgálandó - témakör az anyanyelvi
+ és a nem-anyanyelvi iskolarendszerek összehasonlítása.
+ Bár több forrás is utal arra, hogy nézeteik szerint a tanuló számára a
+ nem anyanyelvi oktatás 
+\begin_inset Quotes pld
+\end_inset
+
+számos negatív következménnyel járhat: alacsonyabb teljesítményt nyújt,
+ rossz jegyeket szerez, kevésbé érzi magát sikeresnek, nem tud teljesen
+ beilleszkedni a közösségbe, emiatt szorong, vissza-húzódóbb lesz, esetleg
+ agresszíven viselkedik
+\begin_inset Quotes prd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+after "2 p."
+key "deak_anyanyelvi_oktatas"
+
+\end_inset
+
+.
+ A nyelvi akadályokból fakadó asszimilációs problémák akár logikusnak is
+ tűnhetnek, mivel a diákok a tanulmányaik és a közösségbe való beilleszkedés
+ helyett az új nyelv tanulásával vannak elfoglalva.
+ Azonban a számokkal is mérhető tények ennek valamelyest ellentmondanak.
 \end_layout
 
 \begin_layout Section
@@ -1304,6 +1559,7 @@ Jelenleg több mint 133 millió blog van az interneten, és az aktív internetez
  77% -a olvas kisebb nagyobb rendszerességgel blogokat
 \begin_inset CommandInset citation
 LatexCommand cite
+after "Letöltés ideje: 2009 szeptember 5."
 key "technorati"
 
 \end_inset
@@ -1331,13 +1587,10 @@ A Web2.0 ennél mélyebb személyiségformáló tényezőket is hordoz.
  A világ egyik legnagyobb közösségi oldala, a facebook jelenleg 300 millió
  aktív felhasználót számlál, akik naponta összesen 8 milliárd percet töltenek
  a weboldalon
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-Link: http://gigaom.com/2009/10/21/facebook-users-spend-8-billion-minutesday-on-t
-he-site/ - Letöltés ideje: 2009 november 4.
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand cite
+after "Letöltés ideje: 2009 november 4."
+key "facebook_users"
 
 \end_inset
 
@@ -1389,13 +1642,10 @@ World of Wordcraft: http://www.worldofwarcraft.com/
  világa, amely ha valós ország lenne, akkor a 75.
  legnépesebb lehetne a világon.
  Ezzel megelőzne olyan nemzeteket, mint a magyar 
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-Link: http://index.hu/tech/blog/2008/10/29/a_world_of_warcraft_mar_nagyobb_mint_m
-agyarorszag/ - Letöltés ideje: 2009 November 9.
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand cite
+after "Letöltés ideje: 2009 November 9."
+key "wow_magyarorszag"
 
 \end_inset
 
@@ -1407,13 +1657,10 @@ agyarorszag/ - Letöltés ideje: 2009 November 9.
  Maressa Orzack, a Kolumbiai Egyetem pszichológus professzora szerint a
  WoW világában élő, virtuális nemzetekhez tartozó játékosok csaknem 40%
  komoly függőséggel rendelkezik
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-Link: http://arstechnica.com/old/content/2006/08/7459.ars - Letöltés ideje:
- 2009 November 9.
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand cite
+after "Letöltés ideje: 2009 November 9."
+key "wow_addict"
 
 \end_inset
 
@@ -1430,22 +1677,7 @@ ugyanis egyre több dolgot lehet csinálni az interneten
 \begin_inset Quotes prd
 \end_inset
 
- 
-\emph on
-
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-Link: http://www.sg.hu/cikkek/16261/a_nok_tobbsegben_vannak_az_interneten
- - Letöltés ideje: 2009 november 4.
-\end_layout
-
-\end_inset
-
-
-\emph default
-.
+ .
  De milyen hatást gyakorol ez énképünkre, identitásunkra? A kérdésre adott
  választ érdemes kettébontanunk.
 \end_layout

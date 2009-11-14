@@ -32,6 +32,10 @@
 \cite_engine basic
 \use_bibtopic false
 \paperorientation portrait
+\leftmargin 3cm
+\topmargin 2.5cm
+\rightmargin 2.5cm
+\bottommargin 2.5cm
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
@@ -142,7 +146,82 @@ textpages
 
 
 \backslash
-setcounter{page}{2}
+setcounter{page}{1}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+fancypagestyle{plain}{%
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+fancyhf{}  %  clear  all  header  and  footer  fields 
+\end_layout
+
+\begin_layout Plain Layout
+
+%
+\backslash
+fancyfoot[R]{
+\backslash
+addvspace{0cm} 
+\backslash
+thepage}  %  except  the  center 
+\end_layout
+
+\begin_layout Plain Layout
+
+%
+\backslash
+headheight{0pt}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+leftmargin 2cm 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+fancyhead[R]{
+\backslash
+thepage}  %  except  the  center 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+fancyhead[L]{
+\backslash
+chaptermark}  %  except  the  center 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+headrulewidth}{0.4 pt} 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+footrulewidth}{0 pt}}
 \end_layout
 
 \end_inset

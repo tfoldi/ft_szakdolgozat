@@ -268,8 +268,8 @@ Munkám első felében a globalizált társadalom egyes aktorainak céljait kív
  megfejteni szociológiai elemzések, konkrét példák és fiktív esettanulmányok
  tükrében.
  Vizsgálódásaim helyszínének három - a kollektív identitásépítés konstruktivista
- és dekonstruktivista lépcsőinek különböző fokain álló - közösségeket választott
-am, melyekhez a feldolgozott forrásokon túl személyes tapasztalatok is kötnek.
+ és dekonstruktivista lépcsőinek különböző fokain álló - közösséget választottam
+, melyekhez a feldolgozott forrásokon túl személyes tapasztalatok is kötnek.
  A jelen korban is közösségépítő tevékenységet folytató Európai Unió, az
  átmeneti fázisban rekedt Magyarország, illetve a globalizáció úttörőjének
  számító Szingapúr kiváló lehetőséget biztosít az oktatás és fogyasztói
@@ -1207,7 +1207,7 @@ számos negatív következménnyel járhat: alacsonyabb teljesítményt nyújt,
 \begin_inset CommandInset citation
 LatexCommand cite
 after "2 p."
-key "deak_anyanyelvi_oktatas"
+key "deak_anyanyelvi"
 
 \end_inset
 
@@ -1216,10 +1216,137 @@ key "deak_anyanyelvi_oktatas"
  tűnhetnek, mivel a diákok a tanulmányaik és a közösségbe való beilleszkedés
  helyett az új nyelv tanulásával vannak elfoglalva.
  Azonban a számokkal is mérhető tények ennek valamelyest ellentmondanak.
+ Jó példa erre a Föld egyik legkisebb területű országa: Szingapúr.
+ Azt mindenképpen érdemes már az elején leszögezni, hogy Szingapúr rendelkezik
+ a világ legeredményesebb közoktatási rendszerével.
+ A különböző oktatásieredményessség-kutatások minden esetben az mutatták,
+ hogy a városállam lakói a legkiválóbbak között vannak, - több mutatóban
+ az első helyen - továbbá a 
+\emph on
+Times
+\emph default
+ magazin a 
+\begin_inset Quotes pld
+\end_inset
+
+világ intellektuális képzésében legiskeresebb nemzete
+\begin_inset Quotes prd
+\end_inset
+
+-ként illette
+\begin_inset CommandInset citation
+LatexCommand cite
+after "vö: 135 p."
+key "oktatas_vilaga_azsia"
+
+\end_inset
+
+.
+ Az országban több évtizedre visszanyúló hagyományai vannak a nem anyanyelvi
+ oktatásnak, habár az 1920-as években ez még csak a központosított tamil
+ és mandarin nyelvet jelentette szemben az indiai és kínai kolóniák szerteágazó
+ dialektusban beszélt nyelveivel.
+ Ezzel környező országokból beáramló közösségek már a huszadik század elején
+ úgy határoztak, 
+\begin_inset Quotes pld
+\end_inset
+
+hogy a népcsoportukon belüli egység megszilárdítása érdekében
+\emph on
+ önként lemondanak az anyanyelven zajló 
+\emph default
+iskolázásról
+\begin_inset Quotes prd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+after "128 p."
+key "oktatas_vilaga_azsia"
+
+\end_inset
+
+.
+ Az egységesített nemzeti nyelvek több mint negyven évvel később, a 1960-as
+ évek közepétől cserélődtek fel a napjainkig használt, angol dominanciájú
+ oktatási kétnyelvűségre
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Érdekes tény, hogy Szingapúr sikeresen ellenállt az angol oktatási nyelv
+ ellen, amíg brit és/vagy maláj fennhatóság alá tartozott.
+ A függetlenség elnyerése után azonban mégis az angol nyelvet választotta.
+\end_layout
+
+\end_inset
+
+.
+ A gyakorlatban az angol lett az oktatás első nyelve, míg a tamil vagy mandarin
+ a második (de mint korábban rámutattam, ezek éppúgy nem valódi anyanyelvei
+ legtöbb diáknak, mint az angol)
+\begin_inset CommandInset citation
+LatexCommand cite
+after "vö: 131 p."
+key "oktatas_vilaga_azsia"
+
+\end_inset
+
+.
+ Harmadik nyelvként felvehető egy valóban idegen nyelv, mint spanyol, japán
+ vagy francia.
+ Azt mindenképpen kijelenthetjük, hogy ilyen erős multikultúralizmus egyik
+ országra sem jellemző, mégis, az európai feltételezésekkel szemben ez nem
+ jelenik meg hátráltató tényezőként az oktatásban, akár az egyén, akár a
+ társadalom perspektívájából szemléljük.
+\end_layout
+
+\begin_layout Standard
+Az angol nyelv bevezetésének okai között szerepelt a 
+\begin_inset Quotes pld
+\end_inset
+
+homo Sinapurianis
+\begin_inset Quotes prd
+\end_inset
+
+ megkonstruálása, egy indiaitól, malájtól, kínaitól megkülönböztethető nemzet
+ létrehozása.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "oktatas_vilaga_azsia"
+
+\end_inset
+
+ Azonban a szingapúri identitás megteremtése félresikerült: az angolul anyanyelv
+i szinten beszélő szingapúriak legalább annyira patrióták, mint amennyire
+ kozmopoliták.
+ A tudatos nemzetépítés mellett az állam prosperitásának fokozása is a célok
+ között szerepelt.
+ Ennyi év távlatából azonban kijelenthető, hogy ezt kiválóan teljesítette:
+ a globalizált, konfuciánus hagyományokkal rendelkező ország lett Délkelet-Ázsia
+ gazdasági és kereskedelmi gócpontja, a kontinens legmagasabb egyfőre jutó
+ GDP-vel
+\begin_inset CommandInset citation
+LatexCommand cite
+after "Letöltés ideje: 2009 November 14."
+key "cia_rank"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Section
 Nyelv
+\end_layout
+
+\begin_layout Standard
+Az előző fejezetből kétségkívül kikövetkeztethető, hogy mi történik egy
+ nemzettel, ha lemond anyanyelvéről a közoktatásban.
+ De milyen kapcsolatai lehetnek ezentúl a nyelveknek és a nemzetépítő mozgalmakn
+ak? 
 \end_layout
 
 \begin_layout Standard
@@ -1308,7 +1435,7 @@ Merre tart a világ?
 \end_inset
 
 .
- Az diverzitás csökkenésével az új nemzetépítési mozgalmak száma visszaeshet,
+ A diverzitás csökkenésével az új nemzetépítési mozgalmak száma visszaeshet,
  sikerességük esélyei csökkenhetnek.
  Ezt kiegészítendő, az Internet - és egyéb médiumokból - áradó anglicizmus,
  illetve más, a nyelveket közös irányba torzító hatás (legyen szó akár a
@@ -1407,7 +1534,250 @@ Az új kulturális forradalom
 \end_layout
 
 \begin_layout Section
-Neoliberalizmus - a hatalom redisztribúciója
+Globális szabadkapitalizmus - a hatalom redisztribúciója
+\end_layout
+
+\begin_layout Standard
+Az egyértelmű igény a vámoktól mentes, a tőke szabad, de kontrollált áramlását
+ biztosító globalizált piacokra elsősorban a nagy világválság idejében,
+ az 1930-as évek elején jelentkezett.
+ "Felvilágosodott emberek előtt sosem volt nagyobb szükség a termelés és
+ fogyasztás, a kereskedelem, a közlekedés, a pénzrendszer, az árucsere és
+ a hitel nemzeti kérdéseinek nemzetközi szabályozására
+\begin_inset Quotes prd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Mónus Illés, 
+\emph on
+Metszet az 1930-as évek magyar szellemi életéről
+\emph default
+ In: Ormos Mária.
+ A gazdasági világválság magyar visszhangja.
+ polgART, Budapest, 2004.
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+shortcitenext{ormos}
+\end_layout
+
+\end_inset
+
+.
+ A kor gondolkodói egyértettek abban, hogy a túltermelési válságra adott
+ válasznak globálisnak, nemzeteken átnyúlónak kell lennie.
+ Ez a gyakorlatban nem lehetett más, mint 
+\begin_inset Quotes pld
+\end_inset
+
+
+\emph on
+lemondás a nacionalizmusról
+\emph default
+ a gazdaságpolitikák összeegyeztetése céljából
+\begin_inset Quotes prd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+after "102 p."
+key "ormos"
+
+\end_inset
+
+.
+ Annak a ténynek a felismerése, hogy a 
+\begin_inset Quotes pld
+\end_inset
+
+világgazdaság hosszabb vagy rövidebb idő ota egységet alkot, és ezért lehetetlen
+ annak egy kis részletét önmagában véve meggyógyítani
+\begin_inset Quotes prd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+after "98 p."
+key "ormos"
+
+\end_inset
+
+, a politikai gondolkodókat több, fontos elhatározáshoz sodorta.
+ Egyrészt az európai egységgondolat ismét előtérbe került, elsősorban gazdasági,
+ majd később politkai integrációt szolgáló szuperstruktúra létrehozásának
+ formájában.
+ Másrészt megjelent az igény a nemzetállamok közötti, globális összehangoltság
+ megteremtésére.
+ Igaz ezen nemzetközi szervezetek sikere csak a második világháború után
+ lett meghatározó, mégis általánosságban elmondható, hogy az ezen 
+\emph on
+szuperstuktúrákra
+\emph default
+ átruházott, eredetileg nemzetállami körbe tartozó hatáskörök folyamatosan
+ csökkentik a jelenlegi kormányzatok mozgásterét, hatalmát
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Megjegyzendő, hogy a jelenlegi, 2008-2009-es világválság kapcsán is előjöttek
+ nemzetállami, protekcionalista nyilatkozatok az érintett országok vezetőitől.
+ Azonban londoni G20-ak 1100 milliárd dolláros élénkítő csomag javaslata
+ ennek gyökeresen ellentmond, és a nemzetek feletti összefogást nevezi meg,
+ mint egyetlen lehetséges kiút.
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+De nem csak ezen globális szuperstuktúrák tehetőek felelőssé az államok
+ devalválódásért, mondanivalójuk kiüresedéséért, valamint a nyugati plurális
+ demokráciák megfáradásáért.
+ Szigeti így fogalmaz: "a globalicázió közegében a demokratikus szavazatoknak
+ kevés befolyásuk van a valódi hatalmat gyakorló új szereplőkre: a szuperstruktú
+rára és a TNC-re.
+ Egy olyan világban, ahol a világgazdaság szá legnagyobb egysége közül már
+ 48 magáncégek kezében van, és ezek gazdasági súlya gyakran közepesen fejlett
+ országokéval ér fel
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+így például Magyarország kilencvenedik helyezett e GNP-forgalmi indexxel
+ dolgozó listán
+\end_layout
+
+\end_inset
+
+, ez érthető
+\begin_inset Quotes prd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+after "220 p."
+key "sziget_vilagrendszer"
+
+\end_inset
+
+.
+ Ez indokolja a kormányzatok szerepének csökkenését: tőkéjük, alkupozicíójuk
+ meggyengült, nagyban függenek a multinacionális vállalatoktól és nemzetközi
+ egyezményektől.
+ Hiába tűnhet úgy az állam polgárainak, hogy a döntések demokratikus, parlamentá
+ris formában születnek, a háttérben történő folyamatok előre kivésett pályákon
+ haladnak, ahol a meggyengült nemzetállamok csak a TNC-k és szuperstruktúrák
+ által diktált neoliberális gazdasági döntéseket implementálják.
+ 
+\begin_inset Quotes pld
+\end_inset
+
+Az óriáscégek vezetői éppúgy, mint a nagy pénzügyi csoportok és médiumok
+ vezetői birtokolják a reális politikai hatalmat; lobbijaik befolyása révén,
+ kerülőutakon, minden súlyukat latba vetik a választott képviselők, és a
+ legitim kormányzatok döntéseinek meghatározásában.
+ Így konfiskálják el, saját hasznukra, a demokráciát
+\begin_inset Quotes prd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ramonet Ignacio, 
+\emph on
+Guerres du XXIe Siècle
+\emph default
+ In: Szigeti Péter.
+ 
+\emph on
+Világrendszernézőben cit.
+\emph default
+, 220 p.
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+noibid
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+További gyengítő tényező, a jelenleg nemzeti tulajdonban lévő javak és intézmény
+ek konstans privatizálása a neoliberalizmus eszmélyének fényében.
+ A magáncégek nem csak a hagyományos termelési ágazatokba, de a választott
+ bíróságok intézményével az igazságszolgáltatásba, biztonsági őreik révén
+ a rendfenntartásba, sőt, több TNC saját magánhadsereggel is rendelkezik
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Egyedül a veszteségeket, szociális kötelezettségeket nem veszik magánkézbe
+ - ezek ugyanis inkább társadalmasítják.
+\end_layout
+
+\end_inset
+
+.
+ Szigeti úgy fogalmaz: ez a folyamat egyfajta 
+\emph on
+refeudalizáció
+\emph default
+, hiszen napjainkban a polgári társadalom és állam szétválasztását figyelhetjük
+ meg.
+ Az jelenlegi nemzetállamokat ugyanis azok antidemokratikus eszközrendszerrel
+ operáló, saját intézményéket fenntartó multinacionalális struktúrák uralják,
+ akik hatalmuknál fogva nincsenek a társadalmi legitimációra rászorulva
+\begin_inset CommandInset citation
+LatexCommand cite
+after "121 p."
+key "sziget_vilagrendszer"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Ebből következően kijelenthető, hogy a hatalom jelenlegi birtokosainak nincs
+ szüksége egy nacionalizmus hasonló, legitimizációt célzó kollektív identitásra.
+ Éppen ellenkezőleg, számukra a nemzetek csak a totálitaritást akadályozó
+ gátak, amelyeket bár manipulálnak, költség megfontolásokból hosszútávon
+ kiiktatni kényszerűlnek.
 \end_layout
 
 \begin_layout Section
@@ -1737,8 +2107,190 @@ Az identitás jövője
 Nacionalizmus ma és holnap 
 \end_layout
 
+\begin_layout Standard
+"Aki uralja a múltat, az uralja a jövőt is, aki uralja a jelent, az uralja
+ a múltat is"
+\begin_inset CommandInset citation
+LatexCommand cite
+key "orwell"
+
+\end_inset
+
+ - hangzik Orwell örökérvényű igazsága.
+ Örökérvényű, hiszen a történelmi vallások is többször nyúltak a kanonizáció
+ eszközeihez.
+ Köztudott, hogy a kereszténység bibliája erős cenzúrázáson esett keresztül:
+ több zsinat foglalkozott a szentírás egyháznak tetsző formára gyúrásán.
+ Annak ellenére, hogy vélhetően az egyház hatalmát, legitimitását sértő
+ írásokat nyilvánították pszeudoepigráffá vagy apokriffá, emberek millió
+ hittek benne vakon évszázadokon át, és még hisznek napjainkban is.
+ 
+\end_layout
+
+\begin_layout Standard
+A feudalizmus elporladása, valamint világ tudományos, társadalmi és gazdasági
+ fejlődése megkívánta az újabb hatalmi struktúrák létrejöttét, amelyeket
+ az egyre erősödő polgárság - később állampolgárság - legitimizált.
+ A társadalmi szerződés folyamatos elfogadásához azonban a vallásokéhoz
+ nagyon hasonló, érzelmeken alapuló összetartó erőre volt szükség, amelyet
+ az országok a nacionalizmus formájában teremtettek meg.
+ Ennek eszközei elsősorban történelemhamisítás és torzítás, intézményrendszerek
+ és szimbólumok kitalálása, nyelvi mozgalmak felkarolása és ezen eszközök
+ médiumokon keresztüli agresszív sulykolása volt - csak úgy, mint az egyházak
+ esetében
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Az egyházaknál természetesen a 
+\begin_inset Quotes pld
+\end_inset
+
+szent
+\begin_inset Quotes prd
+\end_inset
+
+, szakrális nyelvek domináltak.
+ Bár a nyelv használatának célja és eszközként való felhasználásának módja
+ más volt a nemzetépítő mozgalmaknál, a hatalom megszerzésére irányuló cél
+ azonban mégis teremthet párhuzamot a 
+\begin_inset Quotes pld
+\end_inset
+
+nyelv, mint eszköz
+\begin_inset Quotes prd
+\end_inset
+
+ felhasználási módjai között
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+A folyamat eredményeképpen legitim kormányok, hazájukhoz lojális, egymásra
+ bajtársiasan gondoló állampolgárok születtek.
+ A kézzel fogható manipuláció dacára (gondoljunk csak az elmúlt 25 év magyar
+ történelemkönyveinek változásaira) az emberek fejében nem tudatosodott,
+ hogy hazaszeretetük többnyire mesterséges konstrukció terméke.
+ Még virágzanak a nemzeti öntudatról áradozó politikusok, patrióta vagy
+ protekcionalista szemléletű hazafiak, akik többnyire neveltetésük és környezetü
+k okán hisznek a nemzetekben, nemzetállamokban.
+\end_layout
+
+\begin_layout Standard
+A jövő azonban újabb reformokat tartogat.
+ A hatalom immáron nem a nemzetállamok kezében összpontosul, a hagyományos
+ országok gazdasági és politikai ereje hanyatlik.
+ Az jövő nyertesei a világot a végletekig kihasználó, növekedésre optimalizált
+ transznacionális vállalatai lesznek, akik a felelőségvállalást kikerülve
+ érik el egyetlen céljukat: a profitot.
+ Számukra már nem szükséges kollektív identitással fenntartani a legitimációt,
+ ellenkezőleg, a hagyományos nacionalizmus inkább hátráltató tényező.
+ A világpolgárság uniformizációja ugyanis egyértelmű hasznokkal kecsegtet:
+ a kultúrális különbségektől - nyelv, helyi izlés - megszabadított fogyasztóra
+ optimalizált termelés még egyszerűbb gyártási, logisztikai és értékesítési
+ potenciált rejt.
+ A TNC-k számára adott a lehetőség, hogy a privatizált közoktatás, centralizált
+ médiabirodalmak és az Internet segítségével teljesen átformálják a következő
+ generációk gondolkodásmódját, kimosva belőle a szükségtelenné vált nacionalizmu
+s utolsó morzsáját.
+\end_layout
+
 \begin_layout Section
 A nemzetkultúrák bukása
+\end_layout
+
+\begin_layout Standard
+Szakdolgozatom számos pontján hivatkoztam olyan tényeket és trendeket, amelyek
+ a kultúrák hosszútávú erodálódását prognosztizálják.
+ Legyen szó akár a nemzetek federációkká, szuperstruktúrákká integrálódásáról,
+ akár a nyelvek kihalásáról.
+ 
+\end_layout
+
+\begin_layout Standard
+Kényes téma a kultúra szükségszerűségét, gyakorlati hasznát vagy haszontalanságá
+t elemezni.
+ A való élet, - ahogy azt a szingapúri iskolarendszer esetében látthatuk
+ - azonban többnyire a lokális kultúra felcserélésének egyértelmű sikereit
+ igazolja.
+ A nyelv esetében a legmarkánsabb ez az előny: feltételezésem szerint az
+ angol nyelvet professzionálisan használó emberek számára sokkal több, magasabba
+n fizetett álláslehetőség kínálkozik a piacon, mint azoknak, akik csak saját,
+ territoriális nyelveiket beszélik.
+ Véleményem szerint egy kis nemzet nyelve - legyen szó akár a magyar nyelvről
+ - minden esetben hátráltató tényező: korunk globálisan szervezett, határokon
+ átívelő munkamegosztásának - de facto
+\emph on
+ Lingua franca
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Amely eredeti jelentésével szemben manapság inkább amerikai angol, mintsem
+ francia
+\end_layout
+
+\end_inset
+
+
+\emph default
+ - nyelvének anyanyelvi ismerete jelentős előnyt képez azokkal szemben,
+ akik számára ez 
+\begin_inset Quotes pld
+\end_inset
+
+csak
+\begin_inset Quotes prd
+\end_inset
+
+ második nyelvként jelenik meg.
+ 
+\end_layout
+
+\begin_layout Standard
+Itt lép be a nacionalizmus, amely azt az álomképet sugározza, hogy nyelvünk
+ szép és egyedi, ismerője kultúrájának hordozója, letéteményese.
+ De ha belegondolunk: ha más nyelv lenne az anyanyelvünk, nem szeretnénk
+ ugyanennyire? Szép gondolat a sokszínűség megőrzésének utópiája, azonban
+ ezzel a sokszínűséggel legalább annyit veszítünk: a közvetlen, fordítási
+ torzulásoktól mentes kommunikáció lehetőségét a föld bármely lakójával.
+ Az eszközök adottak: a globális médiumok, az Internet mind remek csatornát
+ biztosít az információ szabad áramlásának, egyedül a nyelvi akadály vár
+ még legyőzésre.
+\end_layout
+
+\begin_layout Standard
+A hagyományok, szokások kérdésköre is nehezen értelmezhető, megválaszolható.
+ A nyelvhez hasonlóan itt is lényeges szempont, hogy a szokások diverzitása
+ milyen hatással van a munkamegosztás hatékonyságára.
+ Amennyiben a különböző kultúrák, civilizációk békés egymás mellett élése
+ megoldott, - mint ahogy a jelenkorban nem az - akkor elméletben már nem
+ lehet akadályozó tényező.
+ 
+\end_layout
+
+\begin_layout Standard
+Érdemes megőrizni a különböző nemzeti kultúrákat? Érdemes mesterségesen
+ fenntartani a nyelveket? Mindezt annak ellenére, hogy a globális termelékenység
+et és szabad kommunikációt korlátozzák? Mindezt csupán azért, hogy a világ
+ jelenlegi, konfliktusokat gerjesztő sokszínűsége fennmaradjon? Ezekre a
+ kérdésekre a mi generációnk még nem adhat magabiztos választ: 
+\emph on
+belénk
+\emph default
+ még túlságosan beleivódtak a nacionalizmust tápláló gondolatok.
+ 
+\end_layout
+
+\begin_layout Standard
+Azonban a jövő globalizált, információvezérelt világában felnövő nemzedékek
+ már tudni fogják a választ.
+ 
 \end_layout
 
 \begin_layout Standard

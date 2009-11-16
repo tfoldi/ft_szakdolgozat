@@ -282,7 +282,7 @@ A második részben a folyamatok középtávú hatásait, egy lehetséges jövő
 \begin_inset Quotes eld
 \end_inset
 
-Elpusztítható-e vajon a nacionalizmus?
+Elpusztítható vajon a nacionalizmus?
 \begin_inset Quotes erd
 \end_inset
 
@@ -298,13 +298,13 @@ A nemzeti identitás mesterséges leépítésről vagy elgyengüléséről van s
 \begin_inset Quotes eld
 \end_inset
 
-Kell-e küzdenünk a nemzeti kultúráért?
+Kell küzdenünk a nemzeti kultúráért?
 \begin_inset Quotes erd
 \end_inset
 
 .
  Bár egyértelmű válasszal nem szolgálhatok, mégis remélem munkámmal az olvasó
- közelebb kerül saját és az őt követő generációk énképének megértéséhez.
+ közelebb kerül saját és az azt követő generációk énképének megértéséhez.
 \end_layout
 
 \begin_layout Chapter
@@ -326,7 +326,7 @@ idegen
 \begin_inset Quotes prd
 \end_inset
 
- ország irányában, még ha a távolság a vizsgált entitásoktól megegyezik?
+ ország irányába, még ha a távolság a vizsgált entitásoktól megegyezik?
  Miért drukkolunk hazánk sportolóinak, holott nem is ismerjük őket személyesen?
  Miért érezzük magunkénak nemzetünk természeti kincseit, és miért érezzük
  másokénak a határ mögötti, mesterséges demarkációs vonallal elválasztottakat?
@@ -382,9 +382,13 @@ Nemzet, identitás és politika Európában
 \begin_inset Quotes pld
 \end_inset
 
-A nemzetek nem örökkévalóak: volt kezdetük és végük is lesz.
+A nemzetek nem örökkévalóak: volt kezdetük és 
+\emph on
+végük
+\emph default
+ is lesz.
  Vélhetően az európai konföderáció lép majd a helyükbe, csakhogy ez a törvény
- nem annak a századnak a térvénye, amelyben élünk.
+ nem annak a századnak a törvénye, amelyben élünk.
 \begin_inset Quotes prd
 \end_inset
 
@@ -400,7 +404,6 @@ ibid.
 
 \end_inset
 
-.
  Renan látta előre az integrációs törekvések eurólokális térnyerésének folyamatá
 t, még ha ez a folyamat napjainkban megtorpanni is látszik.
  Edmunk Burke is hasonlóképpen vélekedik a nemzetről (definíciónak még ezt
@@ -449,7 +452,7 @@ elképzelt
 \emph default
 , hiszen még a legkisebb nemzetek tagjai sem ismerik, ismerhetik egymást
  személyesen, sőt, még csak egymás létezéséről sem tudnak.
- Mégis és bennük van az egymás iránti szolidaritás, az egy közösséghez való
+ Mégis bennük van az egymás iránti szolidaritás, az egy közösséghez való
  tartozás hamis képe.
  
 \emph on
@@ -513,7 +516,7 @@ A nemzethez hasonlóan, a nacionalizmusnak, mint
 \emph on
 fogalomnak
 \emph default
- a meghatározása is roppant nehézkes 
+ a meghatározása is feletébb nehézkes 
 \begin_inset CommandInset citation
 LatexCommand cite
 after "vö: 13 p."
@@ -598,8 +601,8 @@ key "koller_nemzet_identitas_eu"
 \end_inset
 
 .
- Ezt kiegészíteném a nacionalizmus a szó szűkebb, pejoratív jelentésű értelmezés
-ével, amely kapcsán Dénes Iván Zoltán így fogalmaz: 
+ Ezt kiegészíteném a nacionalizmus szó szűkebb, pejoratív jelentésű értelmezésév
+el, amely kapcsán Dénes Iván Zoltán így fogalmaz: 
 \begin_inset Quotes pld
 \end_inset
 
@@ -623,10 +626,9 @@ key "pejorativ_nacionalizmus"
 \end_layout
 
 \begin_layout Standard
-A különböző nacionalizmuselméletek, iskolák közötti legfontosabb eltérés
- a modern nemzet eredetének kialakulásának körülményei, illetve a nemzet
- építés előtti, azt megelőző entitásoknak tulajdonított szerepet eltérően
- értékelők közötti különbségekből fakadnak.
+A különböző nacionalizmuselméletek, iskolák közötti legfontosabb eltérések
+ a modern nemzet kialakulásának körülményei, illetve a nemzet építés előtti,
+ azt megelőző entitásoknak tulajdonított szerep eltérő értékeléséből fakadnak.
  
 \begin_inset Quotes pld
 \end_inset
@@ -663,8 +665,7 @@ key "koller_nemzet_identitas_eu"
 
 \begin_layout Standard
 A két tábor közül a modernisták támogatottsága nagyobb, azaz azoké, akik
- a nemzetet a modern korban konstruálált, „elképzelt” közösségnek fogják
- fel.
+ a nemzetet a modern korban konstruált, „elképzelt” közösségnek fogják fel.
  Ernest Geller következőképpen foglalja össze saját, modernista felfogású
  nacionalizmus definícióját: „a nacionalizmus nem a nemzetek öntudatra ébredése,
  hanem nemzeteket alakít ki ott, ahol azok nem léteznek”
@@ -704,9 +705,9 @@ key "hobsbawn"
 \begin_layout Standard
 A szintén konstruktivista Anderson szerint a nemzetépítési folyamatok kiváltó
  okai egyrészt a szakrális világban és dinasztikus birodalmak legitimitásában
- vetett hit megrendülésében, a szakrális nyelvek pozícióveszéseivel (Luther
+ vetett hit megrendülésében, a szakrális nyelvek pozícióveszésében (Luther
  féle reformáció és anyanyelvi bibliák), a földrajzi felfedezésekkel kapcsolatos
- kulturális és etnikai látásmód kitágulásában, a világi tudományok fejlődésével,
+ kulturális és etnikai látásmód kitágulásában, a világi tudományok fejlődésében,
  valamint egy alapvetően új időfelfogásban, a 
 \begin_inset Quotes pld
 \end_inset
@@ -735,8 +736,9 @@ key "lajtai"
 \end_layout
 
 \begin_layout Standard
-Fontos kiemelni a halhatatlanság koncepcióját a nacionalizmus elterjedésének,
- a nemzethez, mint elképzelt közösséghez való irreális kötődés megértéséhez.
+Fontos kiemelni a halhatatlanság koncepcióját egyrészt a nacionalizmus elterjedé
+sének, másrészt a nemzethez, mint elképzelt közösséghez való irreális kötődésnek
+ a megértéséhez.
  Az emberiséget a vallások elsődlegesen a halál utáni túlvilág demisztifikációjá
 val tudták mobilizálni, a vallási erkölcsök alapja is többnyire az életben
  elkövetett bűnök és a halál utáni 
@@ -765,8 +767,8 @@ key "koller_nemzet_identitas_eu"
 
 .
  Ez indokolja, hogy miért hajlandóak a társadalom egyes tagjai olyan szélsőséges
-, az alapvető, civilizált emberi értékektől idegen aktusokra, mint más ember
- meggyilkolása vagy saját maguk feláldozása - vagyis háborúk vívására
+, az alapvető, civilizált emberi értékektől idegen aktusokra, mint például
+ más ember meggyilkolása vagy saját maguk feláldozása - vagyis háborúk vívására
 \begin_inset Foot
 status open
 
@@ -827,7 +829,7 @@ key "modern_nemzet"
 
 , tehát a hatalom egyfajta redisztribúciója, amelyben minden állampolgár
  testvériesen osztozhat.
- Véleményem szerint bár a megállapítás igaz lehet a nemzetek kialakulásának
+ Véleményem szerint a megállapítás igaz lehet a nemzetek kialakulásának
  időszakára, a nemzet és nacionalizmus valamint a demokrácia összefonódása
  nem szükségszerű.
  Jó példa erre az Európai Unió, amelynek demokratikus intézményei csak áttételes
@@ -927,7 +929,7 @@ Nemzetépítés napjainkban
 \end_layout
 
 \begin_layout Standard
-A nemzetépítés napjainkban is létező, markáns jelenség.
+A nemzetépítés napjainkban is létező, szembetűnő jelenség.
  Legyen szó akár új nemzetállamok születéséről (lásd Koszovó), vagy a jelenlegi
  nemzetállami struktúrák elmélyítését szolgáló intézkedésekről.
  Világviszonylatban elmondható, hogy a közoktatásban még mindig túl hangsúlyos
@@ -954,7 +956,7 @@ nemzeti önellátás
 \end_inset
 
 , amely szintén a képzelt közösség tagjai közötti bajtársiasságra épít.
- Sajnos ez a fajta lokál patriotizmus ellentmond a nemzetközi integrációs
+ Sajnos ez a fajta lokálpatriotizmus ellentmond a nemzetközi integrációs
  törekvéseknek (legyen szó akár az EU-ról, akár az ASEAN-ról), veszélyezteti
  azok legitimitását, csökkenti a beléjük vetett bizalmat.
  A fenti esetekben egyértelműen látszanak a nemzetépítő mozgalmak káros,
@@ -979,7 +981,7 @@ A közoktatásban zajló folyamatokat két aspektusból érdemes vizsgálni.
 
 \begin_layout Standard
 A történelemtudomány és a nacionalizmus kölcsönhatásáról számos tudományos
- diskurzus és elmélet született, főképpen az elmúlt három évtizedben.
+ diskurzus és elmélet született, főképp az elmúlt három évtizedben.
  Vajon mi a célja a nemzeti történelem írásának és oktatásának? Michael
  Foucault, francia filozófus-történész a következő megállapítást teszi a
  kérdéssel kapcsolatban: „a historiográfia szintén egyike azoknak a diskurzusokn
@@ -1006,11 +1008,10 @@ Nemzetkép az iskolai történelemoktatásban 1777-1848
 
 \end_inset
 
-.
- Ez a legitimáció a nemzeti történelemnek múltból gyökeredző folytonosságából,
- teljeségéből fakad, amely a vallások univerzumot értelmező szentírásaihoz
- hasonlóan koherens, konzisztens képet festenek a világról, az az abban
- élő egyének sorsáról.
+ Ez a legitimáció a nemzeti történelemnek a múltban gyökeredző folytonosságából,
+ teljeségéből fakad, amely a vallások az univerzumot értelmező szentírásaihoz
+ hasonlóan koherens, konzisztens képet festenek a világról, az abban élő
+ egyének sorsáról.
  Szentek és vallási személyek helyett azonban tudósok és történészek teremtik
  meg a múlttal kapcsolatos kérdésekre a válaszokat
 \begin_inset Foot
@@ -1075,7 +1076,7 @@ key "nacionalizmus_es_torteneszek"
 
 \end_inset
 
- Ezen a kitalációk fő célja az érzelmi kötődés megteremtése, egyfajta valláshoz
+ Ezen kitalációk fő célja az érzelmi kötődés megteremtése, egyfajta valláshoz
  hasonló, kollektív identitásképző attitűd megteremtése, melynek programozása
  és átadása az iskolarendszerekre hárult.
  Klasszikus példa erre a francia Harmadik Köztársaság oktatási programja,
@@ -1114,8 +1115,8 @@ Nemzetkép az iskolai történelemoktatásban 1777-1848
  politikai elit érdekei, vagyis a republikanizmus elmélyítése volt.
  A később született nemzeteknél is megfigyelhető a történelemoktatás öntudatra
  ébredése, elég egymás mellé rakni néhány XX.
- század középről származó európai történelemkönyvet, és összehasonlítani
- azok az adott nemzetre releváns tartalmát
+ század közepéről származó európai történelemkönyvet, és összehasonlítani
+ azok egy adott nemzetre releváns tartalmát
 \begin_inset Foot
 status open
 
@@ -1162,8 +1163,8 @@ status open
 \end_inset
 
 .
- Az ilyen, és ehhez hasonló tudat- és gondolatformáló cselekedetek nem tűnnek
- el tudatunkból, beépülnek személyiségünkbe.
+ Az ilyen, és ehhez hasonló gondolatformáló cselekedetek nem tűnnek el tudatunkb
+ól, beépülnek személyiségünkbe.
  
 \end_layout
 
@@ -1193,7 +1194,7 @@ A következő - a közoktatással kapcsolatban vizsgálandó - témakör az anya
 
 számos negatív következménnyel járhat: alacsonyabb teljesítményt nyújt,
  rossz jegyeket szerez, kevésbé érzi magát sikeresnek, nem tud teljesen
- beilleszkedni a közösségbe, emiatt szorong, vissza-húzódóbb lesz, esetleg
+ beilleszkedni a közösségbe, emiatt szorong, visszahúzódóbb lesz, esetleg
  agresszíven viselkedik
 \begin_inset Quotes prd
 \end_inset
@@ -1214,9 +1215,9 @@ key "deak_anyanyelvi"
  Jó példa erre a Föld egyik legkisebb területű országa: Szingapúr.
  Azt mindenképpen érdemes már az elején leszögezni, hogy Szingapúr rendelkezik
  a világ legeredményesebb közoktatási rendszerével.
- A különböző oktatásieredményessség-kutatások minden esetben az mutatták,
- hogy a városállam lakói a legkiválóbbak között vannak, - több mutatóban
- az első helyen - továbbá a 
+ A különböző oktatásieredményesség-kutatások minden esetben az mutatták,
+ hogy a városállam lakói a legkiválóbbak között vannak - több mutatóban
+ az első helyen -, továbbá a 
 \emph on
 Times
 \emph default
@@ -1241,7 +1242,7 @@ key "oktatas_vilaga_azsia"
  oktatásnak, habár az 1920-as években ez még csak a központosított tamil
  és mandarin nyelvet jelentette szemben az indiai és kínai kolóniák szerteágazó
  dialektusban beszélt nyelveivel.
- Ezzel környező országokból beáramló közösségek már a huszadik század elején
+ A környező országokból beáramló közösségek már a huszadik század elején
  úgy határoztak, 
 \begin_inset Quotes pld
 \end_inset
@@ -1292,7 +1293,7 @@ key "oktatas_vilaga_azsia"
  Harmadik nyelvként felvehető egy valóban idegen nyelv, mint spanyol, japán
  vagy francia.
  Azt mindenképpen kijelenthetjük, hogy ilyen erős multikulturalizmus egyik
- országra sem jellemző, mégis, az európai feltételezésekkel szemben ez nem
+ országra sem jellemző, mégis, az európai feltételezésekkel szemben ez mégsem
  jelenik meg hátráltató tényezőként az oktatásban, akár az egyén, akár a
  társadalom perspektívájából szemléljük.
 \end_layout
@@ -1322,7 +1323,7 @@ i szinten beszélő szingapúriak legalább annyira patrióták, mint amennyire
  Ennyi év távlatából azonban kijelenthető, hogy ezt kiválóan teljesítette:
  a globalizált, konfuciánus hagyományokkal rendelkező ország lett Délkelet-Ázsia
  gazdasági és kereskedelmi gócpontja, a kontinens legmagasabb egy főre jutó
- GDP-vel
+ GDP-jével
 \begin_inset CommandInset citation
 LatexCommand cite
 after "Letöltés ideje: 2009 November 14."
@@ -1364,10 +1365,10 @@ key "koller_nemzet_identitas_eu"
  kodifikálását amellett, hogy rendkívül fontos politikai lépésnek tartja,
  még azt a meghatározó fordulatot is látja, amelynek nyomán a szlovákok
  nyelvileg és irodalmilag megalapozták önálló nemzeti létüket.
- Ezt a cseh történetírás és történelmi tudat a szlovákok elkülönüléseként
- értelmezi, amire a szerző azt mondja, hogy ez az a cseh értelmezés, amelyre
- 1945-ig azt az elmé­letet alapozták, hogy a szlovák nem külön nyelv, hanem
- a csehnek egy nyelvjárása, egyik ága
+ Ezt a cseh történetírás és történelmi tudat is a szlovákok elkülönüléseként
+ értelmezi.
+ Ezzel összecseng az 1945-ig uralkodó cseh nézet, mely szerint a szlovák
+ nem külön nyelv, hanem a csehnek csupán egy dialektusa.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "cseh_es_szlovak_nyelv"
@@ -1529,8 +1530,8 @@ Születésétől fogva a média a hatalmon lévő - vagy hatalom felé törekvő
  elitek eszköze propagandájuk terjesztéséhez.
  Lehet szó akár közszolgálatinak titulált rádió vagy televízió csatornákról,
  akár a kisbíró által kidobolt hirdetményekről: a média minden esetben a
- kapcsolatot jelentette az állampolgár és a nemzetépítő elitek között.
- A média ezen minőségével a szakdolgozatom többi fejezetében említés szerűen
+ kapcsolatot jelenti az állampolgár és a nemzetépítő elitek között.
+ A média ezen minőségével a szakdolgozatom többi fejezetében említésszerűen
  foglalkozom, így a jelenség leírására itt nem térek ki.
 \end_layout
 
@@ -1583,7 +1584,7 @@ shortcitenext{mediahatalom}
 \end_inset
 
 .
- A vállalat vezetője, Silvio Berluscone, eddig kétszer nyert választásokat,
+ A vállalat vezetője, Silvio Berlusconi, eddig kétszer nyert választásokat,
  felhasználva a médiabirodalmában rejlő potenciált
 \begin_inset Foot
 status open
@@ -1596,7 +1597,7 @@ Azóta is jellemző az olasz televíziózásra a kötelező szinkronizálás.
 
  ugyanis könnyebben visszaszorítható a külföldi vélemények és értékrendek
  beszivárgása.
- Bátran kijelenthetjük, ezzel Berluscone egyfajta mondern cenzúrát hozott
+ Bátran kijelenthetjük, ezzel Berlusconi egyfajta mondern cenzúrát hozott
  létre Európa közepén.
 \end_layout
 
@@ -1658,11 +1659,11 @@ key "mediahatalom"
 \begin_layout Standard
 Érdekes módon ezeknek a médiabirodalmaknak a kialakulását a nemzetállamok
  indukálták.
- A nyolcvanas évekbeli média liberalizáció megnyitotta az utat a kereskedelmi,
+ A nyolcvanas évekbeli médialiberalizáció megnyitotta az utat a kereskedelmi,
  civil és közösségi rádiózás - később a televíziózás irányába.
  Azonban a szolgáltatás üzemeltetése csak a tőkeerős cégeknek sikerült,
  akik fokozatosan olvasztották magukba a kisebb műsorszóró társaságokat.
- A médiapiac oligopolizálódott.
+ A médiapiac oligopolizálódott
 \begin_inset CommandInset citation
 LatexCommand cite
 after "vö: 8 p."
@@ -1908,8 +1909,8 @@ key "sziget_vilagrendszer"
 
 .
  Ez indokolja a kormányzatok szerepének csökkenését: tőkéjük, alkupozicíójuk
- meggyengült, nagyban függenek a multinacionális vállalatoktól és nemzetközi
- egyezményektől.
+ meggyengült, nagyban függenek a transznacionális vállalatoktól (TNC) és
+ nemzetközi egyezményektől.
  Hiába tűnhet úgy az állam polgárainak, hogy a döntések demokratikus, parlamentá
 ris formában születnek, a háttérben történő folyamatok előre kivésett pályákon
  haladnak, ahol a meggyengült nemzetállamok csak a TNC-k és szuperstruktúrák
@@ -1967,11 +1968,12 @@ noibid
 \end_layout
 
 \begin_layout Standard
-További gyengítő tényező, a jelenleg nemzeti tulajdonban lévő javak és intézmény
-ek konstans privatizálása a neoliberalizmus eszméjének fényében.
- A magáncégek nem csak a hagyományos termelési ágazatokba, de a választott
- bíróságok intézményével az igazságszolgáltatásba, biztonsági őreik révén
- a rendfenntartásba, sőt, több TNC saját magánhadsereggel is rendelkezik
+További gyengítő tényező a jelenleg nemzeti tulajdonban lévő javak és intézménye
+k konstans privatizálása a neoliberalizmus eszméjének fényében.
+ A magáncégek nem csak a hagyományos termelési és szolgáltatási ágazatokban,
+ de a választott bíróságok intézményével az igazságszolgáltatásban, biztonsági
+ őreik révén a rendfenntartásban is jelen vannak.
+ Több TNC saját magánhadsereggel is rendelkezik
 \begin_inset Foot
 status open
 
@@ -1989,8 +1991,8 @@ refeudalizáció
 \emph default
 , hiszen napjainkban a polgári társadalom és állam szétválasztását figyelhetjük
  meg.
- Az jelenlegi nemzetállamokat ugyanis azok antidemokratikus eszközrendszerrel
- operáló, saját intézményéket fenntartó multinacionális struktúrák uralják,
+ A jelenlegi nemzetállamokat ugyanis azon antidemokratikus eszközrendszerrel
+ operáló, saját intézményeket fenntartó multinacionális struktúrák uralják,
  akik hatalmuknál fogva nincsenek a társadalmi legitimációra rászorulva
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -2018,9 +2020,8 @@ Nemzetek feletti vállalatok
 \begin_layout Standard
 A transznacionális vállalatok a gazdasági globalizáció legfőbb támogatói
  és haszonélvezői.
- A különböző működőtőke beruházások, vállalati akvizíciók következtében
- a médiabirodalmakhoz hasonlóan koncentráltan, oligarchia szerűen folytatják
- tevékenységeiket.
+ A működőtőke a beruházások, vállalati akvizíciók következtében a médiabirodalma
+khoz hasonlóan koncentráltan, oligarchia-szerűen folytatja tevékenységét.
  Mint azt az előző fejezetben is kifejtettem: 
 \begin_inset Quotes pld
 \end_inset
@@ -2049,7 +2050,7 @@ key "tnc_globalizacio"
 \begin_layout Standard
 Működésük megértéséhez érdemes megemlíteni ezen intézmények legfontosabb
  célját: a profitmaximalizálást.
- Ehhez gyakran törvény által szabályozatlan, erkölcsileg megkérdőjelezhető
+ Ez gyakran törvényileg nem szabályozott, erkölcsileg megkérdőjelezhető
  eszközöket is bevetnek, legyen szó korrupcióról, gyerekmunkáról vagy az
  adóparadicsomok által nyújtott szolgáltatások igénybevételéről.
  
@@ -2060,9 +2061,8 @@ Sikerük kulcsa egyrészt a globalizáció nyújtotta földrajzi előnyök kihas
 an rejlik.
  A fejlődő országok környezetvédelmi, adózási és munkajogi keretei a befektetők
  odacsalogatásának reményében sokkal kedvezőbbek a centrumtérségénél.
- Ezek a szegényebb nemzetállamok ideális célországai az olcsóbb, kevesebb
- adminisztrációt és társadalmi-gazdasági felelősségvállalást kedvelő TNC-k
- számára.
+ Ezek a szegényebb nemzetállamok ideális célországai a kevesebb adminisztrációt
+ és társadalmi-gazdasági felelősségvállalást kedvelő TNC-k számára.
  A multinacionális cégek gyakran csak adókedvezmények kiharcolása után hajlandóa
 k telephelyeket, gyárakat létrehozni, illetve ezen kedvezmények lejártával
  azokat megszűntetni.
@@ -2073,12 +2073,12 @@ k telephelyeket, gyárakat létrehozni, illetve ezen kedvezmények lejártával
 A multinacionális cégekkel kapcsolatos bőséges szakirodalom kitér ezekre
  a morálisan elítélhető cselekedetekre csakúgy, mint a cégek gazdasági és
  globalizációs hatásaira, azonban szakdolgozatom szempontjából elsődlegesen
- egy jelenség megvitatása fontos, ez pedig: a felelősségvállalás hiánya.
+ egy jelenség megvitatása fontos, ez pedig a felelősségvállalás hiánya.
 \end_layout
 
 \begin_layout Standard
 A felelősség kérdése egészen a XVII.
- századig nyúl vissza.
+ századig nyúlik vissza.
  Mivel a gyarmatokkal való kereskedés kockázatosnak számított, ezért az
  akkori brit kormányzat engedélyezte, hogy az árucserére szakosodott nonprofit
  cégek kizárólag a cégbe helyezett befektetéseik értékéig legyen csak felelősek
@@ -2086,7 +2086,7 @@ A felelősség kérdése egészen a XVII.
  Később ezek a cégek az ellenőrzés és számonkérés hiánya miatt elkezdtek
  profitorientáltan működni.
  Az amerikai kontinensen a XIX.
- században már 200 társaság működött, igaz ezek erősebb állami kontroll
+ században már 200 társaság működött, igaz, ezek erősebb állami kontroll
  alatt álltak, mint brit testvéreik.
  Az amerikai jog tiltotta a cégek egyesülését, politikai tevékenységét.
 \begin_inset CommandInset citation
@@ -2136,7 +2136,7 @@ key "tnc_globalizacio"
 
 .
  Manapság ugyanígy nincs lehetőség a cégek mögötti emberek felelősségre
- vonására, csak úgy, mint egy fejlett országban bejegyzett cég fejlődő országban
+ vonására, csakúgy, mint egy fejlett országban bejegyzett cég fejlődő országban
  elkövetett - az anyaország törvényeibe ütköző - tetteinek elítélésére.
 \end_layout
 
@@ -2199,9 +2199,9 @@ cit.
 brand
 \emph default
 -ek használata.
- Az ezekhez a márkákhoz kapcsolódó termékeket a világ bármelyik pontján
- ugyanúgy, változatlanul lehet értékesíteni - csökkentve ezzel a termelési
- és marketing költségét.
+ A globális márkákhoz kapcsolódó termékeket a világ bármelyik pontján ugyanúgy,
+ változatlanul lehet értékesíteni - csökkentve ezzel a termelési és marketing
+ költségét.
  Egy gyártósor elég egy egész világ számára, egy PR vagy marketing kampány
  változtatások nélkül kiszolgál több száz országot.
 \end_layout
@@ -2225,14 +2225,14 @@ konstruálása
  műsorokban vitát rendeznek a szőke hajról.
  A lényeg az mesterséges igény megalkotása és elhintése.
  Innentől kezdve ugyanaz a termék eladható az amerikai és európai piacok
- után az Ázsiain is, még akkor is, ha az ottani természetes nemzeti tradíciók
+ után az ázsiain is, még akkor is, ha az ottani természetes nemzeti tradíciók
  ennek ellentmondanak.
 \end_layout
 
 \begin_layout Standard
 Az igényteremtésnek, mint jelenségnek van egy nagyon fontos aspektusa.
- Azáltal, hogy a TNC-k globálisan teremtenek értékeket, - elnyomva a lokális
- hagyományokat - nagyon erős uniformizáló hatást gerjesztenek.
+ Azáltal, hogy a TNC-k globálisan teremtenek értékeket - elnyomva a lokális
+ hagyományokat -, nagyon erős uniformizáló hatást gerjesztenek.
  Az igényekkel, vágyakkal együtt az értékrendek is közelednek egymáshoz,
  csökkentve ezzel az egyének kulturális sokszínűségeit.
  
@@ -2240,7 +2240,7 @@ Az igényteremtésnek, mint jelenségnek van egy nagyon fontos aspektusa.
 
 \begin_layout Standard
 A folyamat melléktermékeként kialakulnak a fogyasztói (képzelt) közösségek,
- a starbucks kávézókban laptopjukkal internetező értelmiségiek, a blackberry-t
+ a Starbucks kávézókban laptopjukkal internetező értelmiségiek, a blackberry-t
  nyomogató menedzserek, vagy az emo stílust, mint zenei-életviteli márkajelzést
  magukra fésülő tizenévesek.
  
@@ -2462,7 +2462,7 @@ Internet Relay Chat - az első kifejezetten chat-re tervezett protokol
  szerveződő, hiteles forrásokból táplálkozó, állami struktúráktól független
  kritikáját.
  Ebben az időszakban jelentek meg az Internetfüggőség, mint szenvedélybetegség.
- Az 
+ A 
 \begin_inset Quotes pld
 \end_inset
 
@@ -2474,7 +2474,7 @@ chat
 \begin_inset Quotes prd
 \end_inset
 
- elterjedésével egy időben egyre többen ragadtak be a virtuális tér nyújtotta
+ elterjedésével egy időben egyre többen ragadtak bele a virtuális tér nyújtotta
  lehetőségekbe: az anonimitást kihasználva a felhasználók saját maguk által
  kreált személyiség mögé bújhattak, amelyekkel újabb és újabb - képzelt
  - közösségekhez férhettek hozzá.
@@ -2544,7 +2544,7 @@ sajtótermék mint áru
 \end_inset
 
  jelenik meg a piacon, megdőlni látszik.
- A teljesen önszervező, cenzúra és profitmentes médium elfordul a kapitalizmus
+ A teljesen önszervező, cenzúra- és profitmentes médium elfordul a kapitalizmus
  eszméjétől, és saját, anarchikus módján közöl információkat, 
 \emph on
 értékeket
@@ -2554,7 +2554,7 @@ sajtótermék mint áru
 
 \begin_layout Standard
 A Web2.0 ennél mélyebb személyiségformáló tényezőket is hordoz.
- A világ egyik legnagyobb közösségi oldala, a facebook jelenleg 300 millió
+ A világ egyik legnagyobb közösségi oldala, a Facebook jelenleg 300 millió
  aktív felhasználót számlál, akik naponta összesen 8 milliárd percet töltenek
  a weboldalon
 \begin_inset CommandInset citation
@@ -2658,16 +2658,16 @@ Egyrészt az Internet csupán katalizátor, amely alapvetően csak erősíti az
  Amennyiben erős nemzeti érzelemmel rendelkezünk, segítségével más, nacionalista
  tartalmakat érhetünk el, alátámaszthatjuk nézeteinket, valamint hasonló
  gondolkodású emberekkel alakíthatunk ki új kapcsolatokat.
- Ez igaz fordítva is, ha valaki nyitott, kozmopolita, nemzetállami struktúráktól
+ Ez fordítva is igaz: ha valaki nyitott, kozmopolita, nemzetállami struktúráktól
  független nézőponttal ül le az Internet elé, akkor valószínűleg az ő preferenci
 áinak megfelelő információkat, adatokat fog böngészni, befogadni.
 \end_layout
 
 \begin_layout Standard
-Másrészt viszont azok a generációk, amelyek még nem rendelkeznek teljesen
- stabil identitással, - személyiségük még formálódik, képlékeny - azok számára
+Másrészt viszont azon a generációk, amelyek még nem rendelkeznek teljesen
+ stabil identitással, - személyiségük még formálódik, képlékeny -, tudatába
  a világháló elsősorban a nemzetektől és határoktól függetlenség eszméjeként
- fog tudatukba beépülni.
+ fog beépülni.
  Legyen szó akár egy nemzetközi szociális hálózatról, a kedvenc énekese
  blogjáról, vagy a legújabb FPS
 \begin_inset Foot
@@ -2708,7 +2708,7 @@ key "orwell"
  Örökérvényű, hiszen a történelmi vallások is többször nyúltak a kanonizáció
  eszközeihez.
  Köztudott, hogy a kereszténység bibliája erős cenzúrázáson esett keresztül:
- több zsinat foglalkozott a szentírás egyháznak tetsző formára gyúrásán.
+ több zsinat foglalkozott a szentírás egyháznak tetsző formára való gyúrásán.
  Annak ellenére, hogy vélhetően az egyház hatalmát, legitimitását sértő
  írásokat nyilvánították pszeudoepigráffá vagy apokriffá, emberek millió
  hittek benne vakon évszázadokon át, és még hisznek napjainkban is.
@@ -2764,17 +2764,17 @@ A folyamat eredményeképpen legitim kormányok, hazájukhoz lojális, egymásra
  A kézzel fogható manipuláció dacára (gondoljunk csak az elmúlt 25 év magyar
  történelemkönyveinek változásaira) az emberek fejében nem tudatosodott,
  hogy hazaszeretetük többnyire mesterséges konstrukció terméke.
- Még virágzanak a nemzeti öntudatról áradozó politikusok, patrióta vagy
- protekcionalista szemléletű hazafiak, akik többnyire neveltetésük és környezetü
-k okán hisznek a nemzetekben, nemzetállamokban.
+ Még széleskörű figyelmet kapnak a nemzeti öntudatról áradozó politikusok,
+ patrióta vagy protekcionalista szemléletű hazafiak, akik többnyire neveltetésük
+ és környezetük okán hisznek a nemzetekben, nemzetállamokban.
 \end_layout
 
 \begin_layout Standard
 A jövő azonban újabb reformokat tartogat.
  A hatalom immáron nem a nemzetállamok kezében összpontosul, a hagyományos
  országok gazdasági és politikai ereje hanyatlik.
- Az jövő nyertesei a világot a végletekig kihasználó, növekedésre optimalizált
- transznacionális vállalatai lesznek, akik a felelőség vállalást kikerülve
+ A jövő nyertesei a világot a végletekig kihasználó, növekedésre optimalizált
+ transznacionális vállalatok lesznek, akik a felelőség vállalást kikerülve
  érik el egyetlen céljukat: a profitot.
  Számukra már nem szükséges kollektív identitással fenntartani a legitimációt,
  ellenkezőleg, a hagyományos nacionalizmus inkább hátráltató tényező.
@@ -2867,7 +2867,7 @@ A hagyományok, szokások kérdésköre is nehezen értelmezhető, megválaszolh
  fenntartani a nyelveket? Mindezt annak ellenére, hogy a globális termelékenység
 et és szabad kommunikációt korlátozzák? Mindezt csupán azért, hogy a világ
  jelenlegi, konfliktusokat gerjesztő sokszínűsége fennmaradjon? Ezekre a
- kérdésekre a mi generációnk még nem adhat magabiztos választ: 
+ kérdésekre a mi generációnk még nem adhat magabiztos választ - 
 \emph on
 belénk
 \emph default
